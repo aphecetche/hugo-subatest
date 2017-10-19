@@ -3,6 +3,5 @@ public/
 cmake*
 .idea/
 node_modules
-*.min.css
 *.sassc
 package-lock.json
