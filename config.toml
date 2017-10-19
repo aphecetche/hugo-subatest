@@ -1,0 +1,5 @@
+baseURL = "http://www.example.com"
+DefaultContentLanguage = "fr"
+title = "SubaTest"
+theme = "swt"
+MetaDataFormat = "toml"
