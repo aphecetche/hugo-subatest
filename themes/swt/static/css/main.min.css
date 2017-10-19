@@ -1,9 +1,40 @@
+@font-face {
+ font-family: "Noto Serif";
+ font-style: italic;
+ font-weight: 400;
+ src: local("Noto Serif Italic"),local(NotoSerif-Italic),url(//fonts.gstatic.com/s/notoserif/v4/HQXBIwLHsOJCNEQeX9kNz3Z2MAKAc2x4R1uOSeegc5U.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserif/v4/HQXBIwLHsOJCNEQeX9kNz-gdm0LZdjqr5-oayXSOefg.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserif/v4/HQXBIwLHsOJCNEQeX9kNz3hCUOGz7vYGh680lGh-uXM.woff) format("woff");
+}
+
+@font-face {
+ font-family: "Noto Serif";
+ font-style: italic;
+ font-weight: 700;
+ src: local("Noto Serif Bold Italic"),local(NotoSerif-BoldItalic),url(//fonts.gstatic.com/s/notoserif/v4/Wreg0Be4tcFGM2t6VWytvGmsoyWrDyoltQVIP7q_RGg.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserif/v4/Wreg0Be4tcFGM2t6VWytvHNuWYKPzoeKl5tYj8yhly0.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserif/v4/Wreg0Be4tcFGM2t6VWytvHl4twXkwp3_u9ZoePkT564.woff) format("woff");
+}
+
+@font-face {
+ font-family: "Noto Serif";
+ font-style: normal;
+ font-weight: 400;
+ src: local("Noto Serif"),local(NotoSerif),url(//fonts.gstatic.com/s/notoserif/v4/eCpfeMZI7q4jLksXVRWPQ1QlYEbsez9cZjKsNMjLOwM.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserif/v4/eCpfeMZI7q4jLksXVRWPQ_k_vArhqVIZ0nv9q090hN8.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserif/v4/eCpfeMZI7q4jLksXVRWPQxsxEYwM7FgeyaSgU71cLG0.woff) format("woff");
+}
+
+@font-face {
+ font-family: "Noto Serif";
+ font-style: normal;
+ font-weight: 700;
+ src: local("Noto Serif Bold"),local(NotoSerif-Bold),url(//fonts.gstatic.com/s/notoserif/v4/lJAvZoKA5NttpPc9yc6lPWzklk6MJbhg7BmBP42CjCQ.eot?#) format("eot"),url(//fonts.gstatic.com/s/notoserif/v4/lJAvZoKA5NttpPc9yc6lPYWiMMZ7xLd792ULpGE4W_Y.woff2) format("woff2"),url(//fonts.gstatic.com/s/notoserif/v4/lJAvZoKA5NttpPc9yc6lPQFhaRv2pGgT5Kf0An0s4MM.woff) format("woff");
+}
+
+p {
+ font-family: "Noto Serif";
+}
+
 body {
   margin-top: 200px;
   background: pink;
 }
 
 p {
-  font-family: "Courier New";
   color: black;
 }
