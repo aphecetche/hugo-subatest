@@ -4,7 +4,7 @@
   "description": "Subatech Web Site 2.0 - test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch:css": "postcss themes/swt/static/css/main.css --config postcss.config.js --output themes/swt/static/css/main.min.css --watch"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/aphecetche/hugo-subatest/issues"
   },
-  "homepage": "https://github.com/aphecetche/hugo-subatest#readme"
+  "homepage": "https://github.com/aphecetche/hugo-subatest#readme",
+  "devDependencies": {
+    "cssnano": "^3.10.0",
+    "postcss-cli": "^4.1.1",
+    "postcss-cssnext": "^3.0.2",
+    "precss": "^2.0.0",
+    "stylelint": "^8.2.0",
+    "stylelint-config-standard": "^17.0.0"
+  }
 }

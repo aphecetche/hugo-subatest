@@ -1,0 +1,13 @@
+$background: pink;
+
+body {
+  margin-top: 200px;
+  background: $background;
+}
+
+
+
+p {
+  font-family: "Courier New";
+  color: black;
+}
