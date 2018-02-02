@@ -7,7 +7,9 @@
     "clean": "rm -f themes/swt/static/css/*.min.css",
     "clean:public": "rm -rf public",
     "css:watch": "postcss themes/swt/static/css/main.css --config postcss.config.js --output themes/swt/static/css/main.min.css --watch",
-    "start" : "npm run clean:public && parallelshell 'npm run css:watch' 'hugo serve'"
+    "css:build": "postcss themes/swt/static/css/main.css --config postcss.config.js --output themes/swt/static/css/main.min.css",
+    "start" : "npm run clean:public && parallelshell 'npm run css:watch' 'hugo serve'",
+    "build" : "npm run css:build && hugo"
   },
   "repository": {
     "type": "git",
