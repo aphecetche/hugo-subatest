@@ -9,7 +9,7 @@
     "css:watch": "postcss themes/swt/static/css/main.css --config postcss.config.js --output themes/swt/static/css/main.min.css --watch",
     "css:build": "postcss themes/swt/static/css/main.css --config postcss.config.js --output themes/swt/static/css/main.min.css",
     "start" : "npm run clean:public && parallelshell 'npm run css:watch' 'hugo serve'",
-    "build" : "npm run css:build && hugo"
+    "build" : "npm run css:build && hugo --baseURL $URL"
   },
   "repository": {
     "type": "git",
