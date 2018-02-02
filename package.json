@@ -4,7 +4,10 @@
   "description": "Subatech Web Site 2.0 - test",
   "main": "index.js",
   "scripts": {
-    "watch:css": "postcss themes/swt/static/css/main.css --config postcss.config.js --output themes/swt/static/css/main.min.css --watch"
+    "clean": "rm -f themes/swt/static/css/*.min.css",
+    "clean:public": "rm -rf public",
+    "css:watch": "postcss themes/swt/static/css/main.css --config postcss.config.js --output themes/swt/static/css/main.min.css --watch",
+    "start" : "npm run clean:public && parallelshell 'npm run css:watch' 'hugo serve'"
   },
   "repository": {
     "type": "git",
@@ -23,6 +26,7 @@
     "postcss-font-magician": "^2.1.0",
     "precss": "^2.0.0",
     "stylelint": "^8.2.0",
-    "stylelint-config-standard": "^17.0.0"
+    "stylelint-config-standard": "^17.0.0",
+    "parallelshell": "^3.0.2"
   }
 }

@@ -1,3 +1,13 @@
 p {
+ font-family: "Roboto Mono";
+ font-size:18px;
+ line-height: 1.0;
+ color: red;
+}
+
+header {
  font-family: "Noto Serif";
+ font-size: 32px;
+ font-weight: bold;
+ color: blue;
 }

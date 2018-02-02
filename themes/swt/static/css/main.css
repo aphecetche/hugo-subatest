@@ -3,12 +3,14 @@
 $background: white;
 
 body {
-  margin-top: 200px;
   background: $background;
 }
 
 
 
-p {
-  color: black;
+blockquote {
+  background-color: yellow;
+  display: block;
+  border: 1px solid black;
+  width: fit-content;
 }
