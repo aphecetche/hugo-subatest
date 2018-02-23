@@ -8,8 +8,8 @@
     "clean:public": "rm -rf public",
     "css:watch": "postcss themes/swt/static/css/main.css --config postcss.config.js --output themes/swt/static/css/main.min.css --watch",
     "css:build": "postcss themes/swt/static/css/main.css --config postcss.config.js --output themes/swt/static/css/main.min.css",
-    "start" : "npm run clean:public && parallelshell 'npm run css:watch' 'hugo serve'",
-    "build" : "npm run css:build && hugo --baseURL $URL"
+    "start": "npm run clean:public && parallelshell 'npm run css:watch' 'hugo serve'",
+    "build": "npm run css:build && hugo --baseURL $URL"
   },
   "repository": {
     "type": "git",
@@ -23,12 +23,12 @@
   "homepage": "https://github.com/aphecetche/hugo-subatest#readme",
   "devDependencies": {
     "cssnano": "^3.10.0",
+    "parallelshell": "^3.0.2",
     "postcss-cli": "^4.1.1",
-    "postcss-cssnext": "^3.0.2",
+    "postcss-cssnext": "^3.1.0",
     "postcss-font-magician": "^2.1.0",
     "precss": "^2.0.0",
-    "stylelint": "^8.2.0",
-    "stylelint-config-standard": "^17.0.0",
-    "parallelshell": "^3.0.2"
+    "stylelint": "^8.4.0",
+    "stylelint-config-standard": "^17.0.0"
   }
 }
