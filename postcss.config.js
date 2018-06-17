@@ -1,10 +1,12 @@
 module.exports = {
     plugins: [
         require('postcss-easy-import')({
-            'path': ['themes/swt/static/css/base', 'themes/swt/static/css/','themes/swt/static/css/sections'],
+            'path': ['themes/swt/static/css/'],
             'prefix': '_',
             'extension': 'css'
         }),
+        require('postcss-simple-vars'),
+        require('postcss-css-variables'),
         require('postcss-cssnext'),
         require('postcss-font-magician')
     ]

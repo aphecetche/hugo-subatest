@@ -1,0 +1,12 @@
+
+p {
+ font-family: "Roboto Mono";
+ font-size:13px;
+ line-height: 0.5;
+ /* color: #ccc; */
+}
+
+header {
+ font-family: "Noto Serif";
+ font-size: 18px;
+}
