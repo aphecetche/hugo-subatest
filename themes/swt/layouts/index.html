@@ -1,9 +1,25 @@
-{{ partial "header" . }}
-<p>
-    pas grand chose ici pour l'instant
-</p>
-<p>mais ça va aller mieux, un jour peut-être...</p>
-<blockquote>enfin on espère en tout cas</blockquote>
-<footer>this is the end for moment</footer>
+<!DOCTYPE html>
+<html>
+
+{{ partial "head" . }}
+
+<body class="clearfix onecol regularnav">
+
+    {{ partial "logo" . }}
+
+    {{ partial "nav" . }}
+
+    {{ partial "banner" . }}
+
+
+    <div id="wrapper" class="clearfix">
+
+        <section role="main" id="content" class="column">
+        </section>
+    </div>
+
+    {{ partial "footer" . }}
+
 </body>
+
 </html>

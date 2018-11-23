@@ -7,7 +7,7 @@
                 <span>{{ .Name }}</span>
             </a>
         </li>
-        <ul>
+        <ul class="sub-menu">
             {{ range .Children }} {{ if .HasChildren }}
             <li class="{{ if $currentPage.IsMenuCurrent " main " . }}active{{ end }}">
                 {{ if .URL }}
@@ -18,7 +18,7 @@
                 {{ else }}
                 <span class="separator"> {{ .Name }}</span>
                 {{ end }}
-                <ul>
+                <ul class="sub-sub-menu">
                     {{ range .Children }}
                     <li class="{{ if $currentPage.IsMenuCurrent " main " . }}active{{ end }}">
                         <a href="{{ .URL }}">{{ .Name }}</a>

@@ -1,0 +1,38 @@
+<link href="/legacy/joomla/css/basic.css" rel="stylesheet" type="text/css" >
+<script src="/legacy/joomla/js/enhance.js"></script>
+<script type="text/javascript">
+    enhance({
+        loadStyles: [
+            "/legacy/joomla/css/enhanced.css"
+        ],
+        loadScripts: [{
+                src: "/legacy/joomla/js/mootools-core.js",
+                "mime": "text/javascript"
+            },
+            {
+                src: "/legacy/joomla/js/core.js",
+                "mime": "text/javascript"
+            },
+            {
+                src: "/legacy/joomla/js/mootools-more.js",
+                "mime": "text/javascript"
+            },
+            {
+                src: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+                "mime": "text/javascript"
+            },
+            {
+                src: "/legacy/joomla/js/moosubatech.js",
+                "mime": "text/javascript"
+            },
+            {
+                src: "/legacy/joomla/js/selectivizr-min.js",
+                "mime": "text/javascript",
+                "iecondition": "lt IE 9"
+            }
+        ],
+        forceFailText: "Voir la version mobile",
+        forcePassText: "Voir la version améliorée",
+        onScriptsLoaded: function() {}
+    });
+</script>
