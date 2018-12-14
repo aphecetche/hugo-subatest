@@ -7,7 +7,7 @@ joomlaid = 295
 category = "Enseignement"
 [menu.main]
   identifier= "enseignement/masters/mars/partenaires"
-  name = "partenaires"
+  name = "Partenaires"
   parent="enseignement/masters/mars"
 +++
 <h3>Partenariats et collaborations :</h3>

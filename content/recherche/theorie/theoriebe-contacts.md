@@ -8,12 +8,8 @@ category = "theorie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/theorie/contacts"
-  name = "contacts"
+  name = "Contacts"
   parent="recherche/univers-a-haute-energie/theorie"
-[menu.side]
-  identifier= "recherche/theorie/contacts"
-  name = "contacts"
-  parent="recherche/theorie"
 +++
 <p>Pour toute question concernant le groupe et ses activités, contactez son responsable actuel :</p>
 <p>Pol-Bernard Gossiaux   gossiaux@subatech.in2p3.fr   02 51 85 84 32</p>

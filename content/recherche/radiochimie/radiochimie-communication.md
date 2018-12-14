@@ -8,7 +8,7 @@ category = "radiochimie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/radiochimie/communication"
-  name = "communication"
+  name = "Présentations de conférences, séminaires  et posters"
   parent="recherche/nucleaire-et-environnement/radiochimie"
 +++
 <p>Link: <a href="http://hal.in2p3.fr/search/index/?qa[localReference_s][]=SUBATECH-Radiochimie&amp;sort=producedDate_tdate+desc&amp;docType_s=COMM+OR+POSTER" target="_blank">HAL-IN2P3</a></p>

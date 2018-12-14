@@ -8,7 +8,7 @@ category = "Administration"
 layout="services-techniques-et-administration"
 [menu.main]
   identifier= "laboratoire/venir-a-subatech/hebergement"
-  name = "hebergement"
+  name = "Hébergement"
   parent="laboratoire/venir-a-subatech"
 +++
 <p>Quelques solutions d'hébergement pour un séjour à Nantes. A l'exception de la résidence Cerise, elles sont toutes situées à quelques pas de la ligne de tramway #1 qui dessert notamment le centre ville de Nantes, la Gare et la Beaujoire.</p>

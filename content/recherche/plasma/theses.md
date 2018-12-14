@@ -8,12 +8,8 @@ category = "plasma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/plasma/theses"
-  name = "theses"
+  name = "Thèses "
   parent="recherche/univers-a-haute-energie/plasma"
-[menu.side]
-  identifier= "recherche/plasma/theses"
-  name = "theses"
-  parent="recherche/plasma"
 +++
 <h2 class="phd">Les thèses en cours</h2>
 <ul>

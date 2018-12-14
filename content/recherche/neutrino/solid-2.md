@@ -8,12 +8,8 @@ category = "neutrino"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/neutrino/activites-de-recherche/solid"
-  name = "solid"
+  name = "SoLid"
   parent="recherche/univers-a-haute-energie/neutrino/activites-de-recherche"
-[menu.side]
-  identifier= "recherche/neutrino/activites-de-recherche/solid"
-  name = "solid"
-  parent="recherche/neutrino/activites-de-recherche"
 +++
 <div title="Page 1">
 <p><img src="images/Recherche/neutrino/Solid/Solid_detector_sims.png" alt="Solid detector sims" width="254" height="175" title="SoLid detector @ BR2 reactor, Mol (Belgium)"/>L’expérience <strong>SoLid</strong> a pour but de résoudre l’une des grandes énigmes actuelles de la physique des neutrinos. Entre autres résultats surprenants, plusieurs expériences récentes ont observé un déficit dans le taux de neutrinos détectés au voisinage de réacteurs nucléaires. Ces anomalies pourraient être dues à l’existence d’un nouvel état du neutrino (au-delà des états électroniques, muoniques et tauiques déjà connus), le neutrino stérile, dont la masse serait proche de 1 eV. Si un tel état existe, une fraction des antineutrinos électroniques émis par un réacteur devrait ''osciller'' durant les 10 premiers mètres de leur parcours, pour se transformer en neutrinos stériles indétectables. La meilleure façon de résoudre cette énigme consiste donc à détecter des antineutrinos électroniques pour la première fois dans cette région: observer ou non une modulation de leur flux en fonction de la distance et de l’énergie confirmera ou infirmera l’existence d’un tel neutrino stérile.</p>

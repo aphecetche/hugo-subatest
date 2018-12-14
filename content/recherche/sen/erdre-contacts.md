@@ -8,7 +8,7 @@ category = "sen"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/sen/contacts"
-  name = "contacts"
+  name = "Contacts"
   parent="recherche/nucleaire-et-environnement/sen"
 +++
 <p>- <span>Chef de groupe</span> :</p>

@@ -7,7 +7,7 @@ joomlaid = 334
 category = "Smart"
 [menu.main]
   identifier= "mesures/nos-prestations/actions-r-d"
-  name = "actions-r-d"
+  name = "Actions R & D"
   parent="mesures/nos-prestations"
 +++
 <p>SMART peut, sur simple demande, développer et optimiser de nouveaux protocoles, des mesures spécifiques et réaliser des études dédiées.</p>

@@ -8,7 +8,7 @@ category = "radiochimie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/radiochimie/presentation"
-  name = "presentation"
+  name = "Présentation"
   parent="recherche/nucleaire-et-environnement/radiochimie"
 +++
 <p><span><strong>L</strong>es activités de recherche du groupe de radiochimie sont dédiées aux questions fondamentales et appliquées en lien avec le comportement des substances radioactives dans l’environnement, dans le cycle électronucléaire et pour les applications médicales. </span></p>

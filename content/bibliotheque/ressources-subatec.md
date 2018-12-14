@@ -7,7 +7,7 @@ joomlaid = 172
 category = "Bibliotheque"
 [menu.main]
   identifier= "communication/bibliotheque/ressources-documentaires/ressources-propres"
-  name = "ressources-propres"
+  name = "Subatech"
   parent="communication/bibliotheque/ressources-documentaires"
 +++
 <p>Le Laboratoire dispose également de ressources propres:</p>

@@ -8,7 +8,7 @@ category = "xenon"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-sante/xenon/recherche/fondamentales/darwin"
-  name = "darwin"
+  name = "DARWIN"
   parent="recherche/nucleaire-et-sante/xenon/recherche/fondamentales"
 +++
 <p><strong><img alt="DARWIN Logo" src="images/Recherche/Xenon/DARWINLogo.gif" height="109" width="280"/>DARWIN est une étude de conception d’une future infrastructure en Europe pour la recherche de matière noire. Ce projet a été identifié dans le calendrier du réseau ASPERA.</strong></p>

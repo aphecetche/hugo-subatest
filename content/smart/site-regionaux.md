@@ -7,7 +7,7 @@ joomlaid = 340
 category = "Smart"
 [menu.main]
   identifier= "mesures/liens/sites-regionaux"
-  name = "sites-regionaux"
+  name = "Sites régionaux"
   parent="mesures/liens"
 +++
 <p><a href="http://www.nantes.fr/">Nantes</a></p>

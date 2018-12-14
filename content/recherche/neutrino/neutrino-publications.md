@@ -8,12 +8,8 @@ category = "neutrino"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/neutrino/publications"
-  name = "publications"
+  name = "Publications"
   parent="recherche/univers-a-haute-energie/neutrino"
-[menu.side]
-  identifier= "recherche/neutrino/publications"
-  name = "publications"
-  parent="recherche/neutrino"
 +++
 <p> </p>
 <ul>

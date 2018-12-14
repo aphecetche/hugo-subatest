@@ -8,12 +8,8 @@ category = "neutrino"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/neutrino/theses"
-  name = "theses"
+  name = "Thèses"
   parent="recherche/univers-a-haute-energie/neutrino"
-[menu.side]
-  identifier= "recherche/neutrino/theses"
-  name = "theses"
-  parent="recherche/neutrino"
 +++
 <p><strong><span>Thèses en cours</span></strong></p>
 <p><strong>- David Henaff </strong></p>

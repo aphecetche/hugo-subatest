@@ -8,7 +8,7 @@ category = "xenon"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-sante/xenon/recherche/fondamentales/xenon100"
-  name = "xenon100"
+  name = "XENON100"
   parent="recherche/nucleaire-et-sante/xenon/recherche/fondamentales"
 +++
 <p><strong><a href="http://xenon1t.org"><img src="images/Recherche/Xenon/XENON100Logo.jpg" alt="XENON100Logo" width="150" height="168"/></a>XENON est un programme de détection directe de matière noire avec du xénon liquide. Il vise à détecter la faible charge et la petite quantité de lumière qui devraient être émises à la suite de l'interaction d'une particule de matière noire avec un noyau de xénon. L'objectif scientifique est d'être sensible aux très faibles sections efficaces prédites par les observations cosmologiques et les modèles théoriques. Le détecteur actuel, XENON100, contenant 162 kg de xénon, a récemment permis d'abaisser la limite sur la section efficace d'intéraction indépendant du spin à une valeur de 2 x 10<sup>-45</sup> cm<sup>2</sup> pour un WIMP de 55 GeV/c<sup>2</sup> (à 90%!d(MISSING)e degré de confiance). Le détecteur est encore en cours d'acquisition de données et devrait permettre d'atteindre prochainement une meilleure sensibilité.</strong></p>

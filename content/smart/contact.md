@@ -7,7 +7,7 @@ joomlaid = 335
 category = "Smart"
 [menu.main]
   identifier= "mesures/contact/adresse-et-plan-d-acces"
-  name = "adresse-et-plan-d-acces"
+  name = "Adresse et plan d'accès"
   parent="mesures/contact"
 +++
 <p>Ecole des Mines de Nantes - SMART</p>

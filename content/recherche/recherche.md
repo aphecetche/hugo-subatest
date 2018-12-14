@@ -7,7 +7,7 @@ joomlaid = 84
 category = "Recherche"
 [menu.main]
   identifier= "recherche/presentation"
-  name = "presentation"
+  name = "Présentation"
   parent="recherche"
 +++
 <p>Les activités de recherche de SUBATECH gravitent autour d’un domaine, le nucléaire, que ce soit dans ses aspects les plus fondamentaux ou très appliqués, tant expérimentaux que théoriques, avec des recherches menées à la fois dans le domaine de la physique nucléaire et de la chimie nucléaire.</p>

@@ -8,7 +8,7 @@ category = "Electronique"
 layout="services-techniques-et-administration"
 [menu.main]
   identifier= "services-techniques/electronique/presentation"
-  name = "presentation"
+  name = "Présentation"
   parent="services-techniques/electronique"
 +++
 <p>La mission du groupe Electronique est de soutenir les équipes de recherche en assurant la conception, la réalisation, l’installation et la maintenance de systèmes électroniques et des logiciels associés. Il a en charge également la gestion des équipements électroniques de Subatech, y compris la maintenance et/ou le diagnostic de dysfonctionnement (alimentations basse et haute tensions, oscilloscopes, appareils de chimie).</p>

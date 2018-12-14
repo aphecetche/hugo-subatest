@@ -8,11 +8,7 @@ category = "astro"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/astro/portfolio"
-  name = "portfolio"
+  name = "Portfolio"
   parent="recherche/univers-a-haute-energie/astro"
-[menu.side]
-  identifier= "recherche/astro/portfolio"
-  name = "portfolio"
-  parent="recherche/astro"
 +++
 <p>{gallery}Recherche/Astro/Portfolio{/gallery}</p>

@@ -8,7 +8,7 @@ category = "xenon"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-sante/xenon/contacts"
-  name = "contacts"
+  name = "Contacts"
   parent="recherche/nucleaire-et-sante/xenon"
 +++
 <p><img alt="Photo Dominique Thers" src="images/Recherche/Xenon/PhotoDominiqueThers.jpg" height="300" width="400"/></p>

@@ -8,12 +8,8 @@ category = "astro"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/astro/publications"
-  name = "publications"
+  name = "Publications"
   parent="recherche/univers-a-haute-energie/astro"
-[menu.side]
-  identifier= "recherche/astro/publications"
-  name = "publications"
-  parent="recherche/astro"
 +++
 <p> Cette page regroupe une liste volontairement restreinte d'articles majeurs du groupe. On y trouve également en fin de page, les contributions plus récentes au rapport d'actvité 2010-2013 du laboratoire.</p>
 <h2>Sur les développements à Nancay :</h2>

@@ -8,12 +8,8 @@ category = "theorie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/theorie/membres"
-  name = "membres"
+  name = "Membres"
   parent="recherche/univers-a-haute-energie/theorie"
-[menu.side]
-  identifier= "recherche/theorie/membres"
-  name = "membres"
-  parent="recherche/theorie"
 +++
 <p> </p>
 <p>{loadposition membres}</p>

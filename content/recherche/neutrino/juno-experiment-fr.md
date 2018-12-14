@@ -8,12 +8,8 @@ category = "neutrino"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/neutrino/activites-de-recherche/juno"
-  name = "juno"
+  name = "Juno"
   parent="recherche/univers-a-haute-energie/neutrino/activites-de-recherche"
-[menu.side]
-  identifier= "recherche/neutrino/activites-de-recherche/juno"
-  name = "juno"
-  parent="recherche/neutrino/activites-de-recherche"
 +++
 <p>Le <strong>Jiangmen Underground Neutrino Observatory (JUNO)</strong>, en construction à Jiangmen (dans le Sud de la Chine), est une expérience polyvalente dédiée à la détermination de la hiérarchie de masse des neutrinos et à la mesure précise des paramètres d'oscillation des neutrinos<em></em>. La mesure de la hiérarchie de masse réclame une résolution en énergie inégalée jusqu'à présent (de l'ordre de 3%!à(MISSING) 1 MeV) et une incertitude de 1%!e(MISSING)n absolu sur l'échelle en énergie. Grace à son design et à son très grand volume de détection, JUNO est également un observatoire pour les neutrinos issus de supernovae, pour les géo-neutrinos et pour la recherche de neutrinos exotiques. </p>
 <p><img src="images/Recherche/neutrino/JUNO/juno_detector.jpg" alt="juno detector" width="319" height="304" title="Detecteur design: a sphere of 35 m diameter is filled with 20 000 tonnes of liquid scintillators and is immerse in a water pool. A total of 43000 photomultipliers are employed"/></p>

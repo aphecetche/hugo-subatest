@@ -8,12 +8,8 @@ category = "neutrino"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/neutrino/activites-de-recherche/double-chooz"
-  name = "double-chooz"
+  name = "Double Chooz"
   parent="recherche/univers-a-haute-energie/neutrino/activites-de-recherche"
-[menu.side]
-  identifier= "recherche/neutrino/activites-de-recherche/double-chooz"
-  name = "double-chooz"
-  parent="recherche/neutrino/activites-de-recherche"
 +++
 <p>L'éxpérience <a href="http://doublechooz.in2p3.fr/Status_and_News/status_and_news.php">Double Chooz</a> a pour but la détection des anti-neutrinos des réacteurs avec deux détecteurs identiques positionnés à 400 m (« détecteur proche », ND) et 1050m (« détecteur lointain », FD) à Chooz, en France <a href="https://arxiv.org/abs/hep-ex/0606025">[1]</a>. </p>
 <p>The main goal of the experiment is to measure the θ<sub>13</sub> mixing angle, by comparing the energy spectra of the electron anti-neutrinos measured in the near (ND) and far detectors (FD). Indeed, the ND monitors the flux with nearly no oscillation while the FD is most affected by the oscillations<span>. </span>The accurate and precise measurement of θ<sub>13</sub> is vital for the future efforts on neutrino physics, such as the determination if neutrinos violate the Charge-Parity conservation, and their mass distribution. </p>

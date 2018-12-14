@@ -8,12 +8,8 @@ category = "astro"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/astro/presentation"
-  name = "presentation"
+  name = "Présentation"
   parent="recherche/univers-a-haute-energie/astro"
-[menu.side]
-  identifier= "recherche/astro/presentation"
-  name = "presentation"
-  parent="recherche/astro"
 +++
 <p><img src="images/Recherche/Astro/Logo_Groupe_Astro_Bleu_HD_RVB.png" alt="Logo Groupe Astro Bleu HD RVB" width="183" height="181" title="Une station autonome devant le reseau decametrique de la station de radio astronomie de Nancay  (c) Louis-Marie Rigalleau"/>Le groupe Astroparticules est composé d'une dizaine de <a href="recherche/astro/astro-membres.md" target="_self">physiciens</a> (chercheurs, postdoc et doctorants). Il est épaulé par des personnes appartenant aux services techniques de Subatech (de l'ordre d'une dizaine également) permettant la conception et la réalisation de développements techniques. Les activités de recherche du groupe tournent principalement autour de l'observation des rayons cosmiques d'ultra haute énergie et notamment par la radio détection des gigantesques gerbes de particules qu'ils engendrent lors de leur entrée dans l'atmosphère. Un des objectifs est d'explorer les possibilités pouvant conduire à teme à l'emergence d'une astronomie "proton".</p>
 <p> </p>

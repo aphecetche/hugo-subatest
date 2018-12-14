@@ -7,7 +7,7 @@ joomlaid = 224
 category = "Bibliotheque"
 [menu.main]
   identifier= "communication/bibliotheque/bases-de-donnees"
-  name = "bases-de-donnees"
+  name = "Liens"
   parent="communication/bibliotheque"
 +++
 <ul>

@@ -8,7 +8,7 @@ category = "Stages et thèses"
 layout="enseignement"
 [menu.main]
   identifier= "enseignement/propositions-de-theses"
-  name = "propositions-de-theses"
+  name = "Propositions de thèses"
   parent="enseignement"
 +++
 <h2><span>2015-2016</span></h2>

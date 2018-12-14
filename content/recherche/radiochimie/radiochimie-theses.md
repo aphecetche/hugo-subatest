@@ -8,7 +8,7 @@ category = "radiochimie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/radiochimie/theses"
-  name = "theses"
+  name = "Thèses "
   parent="recherche/nucleaire-et-environnement/radiochimie"
 +++
 <h4><strong>Les thèses en cours:</strong></h4>

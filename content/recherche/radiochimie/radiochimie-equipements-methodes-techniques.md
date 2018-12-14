@@ -8,7 +8,7 @@ category = "radiochimie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/radiochimie/equipements-methodes-techniques"
-  name = "equipements-methodes-techniques"
+  name = "Equipements, méthodes et techniques"
   parent="recherche/nucleaire-et-environnement/radiochimie"
 +++
 <p></p>

@@ -8,7 +8,7 @@ category = "Electronique"
 layout="services-techniques-et-administration"
 [menu.main]
   identifier= "services-techniques/electronique/contacts"
-  name = "contacts"
+  name = "Contacts"
   parent="services-techniques/electronique"
 +++
 {loadposition contact}

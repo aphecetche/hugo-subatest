@@ -8,7 +8,7 @@ category = "prisma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/prisma/equipements-methodes-techniques"
-  name = "equipements-methodes-techniques"
+  name = "Equipements, méthodes et techniques"
   parent="recherche/nucleaire-et-environnement/prisma"
 +++
 <p> <span><strong>EQUIPEMENTS</strong></span></p>

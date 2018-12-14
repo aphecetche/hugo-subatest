@@ -8,7 +8,7 @@ category = "xenon"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-sante/xenon/recherche/fondamentales/xenon1t"
-  name = "xenon1t"
+  name = "XENON1T"
   parent="recherche/nucleaire-et-sante/xenon/recherche/fondamentales"
 +++
 <p><strong><img alt="XENON100Logo" src="images/Recherche/Xenon/XENON100Logo.jpg" height="168" width="150"/>XENON1T constitue l’un des prochains projets pour la recherche de matière noire, et fera appel à la même technique de détection que celle utilisée par XENON100. Bien que toujours en cours de conception, il sera à terme le plus gros détecteur au xénon liquide construit à ce jour, avec une sensibilité sur les sections efficaces d’interactions WIMPs-nucléons d’environ deux ordres de grandeurs supérieurs à celle des détecteurs actuels. </strong></p>

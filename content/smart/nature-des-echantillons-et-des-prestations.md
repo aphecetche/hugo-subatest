@@ -7,7 +7,7 @@ joomlaid = 333
 category = "Smart"
 [menu.main]
   identifier= "mesures/nos-prestations/nature-des-echantillons-et-des-prestations"
-  name = "nature-des-echantillons-et-des-prestations"
+  name = "Nature des échantillons et des prestations"
   parent="mesures/nos-prestations"
 +++
 <p>Nous analysons divers produits, dont :</p>

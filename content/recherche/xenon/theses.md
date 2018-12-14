@@ -8,7 +8,7 @@ category = "xenon"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-sante/xenon/theses"
-  name = "theses"
+  name = "Thèses "
   parent="recherche/nucleaire-et-sante/xenon"
 +++
 <h3>Thèses soutenues</h3>

@@ -8,12 +8,8 @@ category = "neutrino"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/neutrino/contacts"
-  name = "contacts"
+  name = "Contacts"
   parent="recherche/univers-a-haute-energie/neutrino"
-[menu.side]
-  identifier= "recherche/neutrino/contacts"
-  name = "contacts"
-  parent="recherche/neutrino"
 +++
 <p>- <span>Chef du groupe:</span></p>
 <p>Fedric Yermia - H 121 - 02 51 85 84 54 - <span id="cloak86567"><a href="mailto:yermia@subatech.in2p3.fr">yermia@subatech.in2p3.fr</a></span></p>

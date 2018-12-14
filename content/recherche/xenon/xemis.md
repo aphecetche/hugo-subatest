@@ -8,7 +8,7 @@ category = "xenon"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-sante/xenon/recherche/appliquees/xemis"
-  name = "xemis"
+  name = "XEMIS"
   parent="recherche/nucleaire-et-sante/xenon/recherche/appliquees"
 +++
 <p><strong>Le projet XEMIS, initié à Subatech en 2004 a pour objectif de développer une caméra Compton au xénon liquide pour l'imagerie médicale.</strong></p>

@@ -8,7 +8,7 @@ category = "sen"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/sen/presentations-de-conferences-seminaires-et-posters"
-  name = "presentations-de-conferences-seminaires-et-posters"
+  name = "Présentations de conférences, séminaires et posters"
   parent="recherche/nucleaire-et-environnement/sen"
 +++
 <h3> Participations à des conférences internationales :</h3>

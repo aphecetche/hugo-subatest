@@ -8,7 +8,7 @@ category = "prisma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/prisma/portfolio"
-  name = "portfolio"
+  name = "Portfolio"
   parent="recherche/nucleaire-et-environnement/prisma"
 +++
 <p> {gallery}Recherche/Prisma/Portfolio,crop=0{/gallery}</p>

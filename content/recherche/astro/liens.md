@@ -8,12 +8,8 @@ category = "astro"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/astro/liens"
-  name = "liens"
+  name = "Liens"
   parent="recherche/univers-a-haute-energie/astro"
-[menu.side]
-  identifier= "recherche/astro/liens"
-  name = "liens"
-  parent="recherche/astro"
 +++
 <p>Quelques liens pertinents pour la thématique : sites du vulgarisation, bases de données, banques d'images et de vidéos, etc... et pour les activités du groupe.</p>
 <p><strong>Les sites de nos principaux partenaires :</strong></p>

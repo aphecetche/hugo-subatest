@@ -8,7 +8,7 @@ category = "Administration"
 layout="services-techniques-et-administration"
 [menu.main]
   identifier= "laboratoire/administration/missions"
-  name = "missions"
+  name = "Informations missions"
   parent="laboratoire/administration"
 +++
 <p>Pour tout projet de visite au laboratoire, merci de remplir le document suivant et nous le faire suivre à g_internation@subatech.in2p3.fr</p>

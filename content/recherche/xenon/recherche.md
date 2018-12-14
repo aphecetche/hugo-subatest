@@ -8,7 +8,7 @@ category = "xenon"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-sante/xenon/recherche"
-  name = "recherche"
+  name = "Activités de recherche"
   parent="recherche/nucleaire-et-sante/xenon"
 +++
 <p><strong>L</strong>es activités de recherche du groupe XENON sont centrées autour de la technologie de détection avec du xénon liquide.</p>

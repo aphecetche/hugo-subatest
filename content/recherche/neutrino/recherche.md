@@ -8,12 +8,8 @@ category = "neutrino"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/neutrino/activites-de-recherche"
-  name = "activites-de-recherche"
+  name = "Activités de recherche"
   parent="recherche/univers-a-haute-energie/neutrino"
-[menu.side]
-  identifier= "recherche/neutrino/activites-de-recherche"
-  name = "activites-de-recherche"
-  parent="recherche/neutrino"
 +++
 <p>Nos activités de recherche sont principalement liées à l'étude des <strong>oscillations de neutrinos</strong> produits par les<strong> installations nucléaires</strong> et par les <strong>sources astrophysiques</strong>, et à l'application de la physique nucléaire dans le cadres des développement de <strong><a href="recherche/sen/systeme-et-scenarios.md">scénarios électro-nucleaires</a></strong>.</p>
 <p>Notre groupe est impliqué dans les expériences dédiées aux :</p>

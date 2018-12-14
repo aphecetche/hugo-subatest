@@ -8,12 +8,8 @@ category = "plasma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/plasma/liens"
-  name = "liens"
+  name = "Liens"
   parent="recherche/univers-a-haute-energie/plasma"
-[menu.side]
-  identifier= "recherche/plasma/liens"
-  name = "liens"
-  parent="recherche/plasma"
 +++
 <p>Quelques liens pertinents pour la thématique : </p>
 <ul>

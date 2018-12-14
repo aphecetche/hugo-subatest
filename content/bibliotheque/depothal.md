@@ -7,7 +7,7 @@ joomlaid = 174
 category = "Bibliotheque"
 [menu.main]
   identifier= "communication/bibliotheque/depot-de-document-dans-hal"
-  name = "depot-de-document-dans-hal"
+  name = "Dépot de document dans HAL"
   parent="communication/bibliotheque"
 +++
 <p><a href="http://hal.in2p3.fr/">HAL</a> permet de référencer publications et conférences avec possibilité de déposer avec texte intégral (ou sans)</p>

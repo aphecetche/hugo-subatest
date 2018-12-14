@@ -8,12 +8,8 @@ category = "theorie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/theorie/activites-de-recherche/basses-energies"
-  name = "basses-energies"
+  name = "Basses énergies"
   parent="recherche/univers-a-haute-energie/theorie/activites-de-recherche"
-[menu.side]
-  identifier= "recherche/theorie/activites-de-recherche/basses-energies"
-  name = "basses-energies"
-  parent="recherche/theorie/activites-de-recherche"
 +++
 <p>L'activité essentielle dans le domaine des basses énergies est l'étude de la matière nucléaire, de ses constituants et de leurs interactions dans le domaine des énergies de l'ordre de l'énergie de Fermi. Ce champ d'activité comprend d'une part la thématique des réactions nucléaires aux énergies intermédiaires et, d'autre part, l'astrophysique nucléaire et les astres compacts.</p>
 <p>Les phénomènes de transport, le problème à N-corps, la dynamique de champ moyen et des corrélations, les transitions de phase, l'équation d'état nucléaire, sont autant de thèmes d'investigation qui ont motivé le développement de plusieurs modèles au sein du groupe dans le but d'approfondir nos connaissances sur des questions fondamentales telle que la caractérisation de l'interaction nucléaire, les désintégrations et les noyaux exotiques:</p>

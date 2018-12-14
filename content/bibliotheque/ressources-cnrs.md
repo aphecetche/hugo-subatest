@@ -7,7 +7,7 @@ joomlaid = 114
 category = "Bibliotheque"
 [menu.main]
   identifier= "communication/bibliotheque/ressources-documentaires/ressource-cnrs"
-  name = "ressource-cnrs"
+  name = "CNRS"
   parent="communication/bibliotheque/ressources-documentaires"
 +++
 <ul>

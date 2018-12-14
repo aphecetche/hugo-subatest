@@ -8,7 +8,7 @@ category = "Administration"
 layout="services-techniques-et-administration"
 [menu.main]
   identifier= "laboratoire/administration/contacts"
-  name = "contacts"
+  name = "Contacts"
   parent="laboratoire/administration"
 +++
 <p>Qui contacter pour quoi </p>

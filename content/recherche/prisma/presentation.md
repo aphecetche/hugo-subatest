@@ -8,7 +8,7 @@ category = "prisma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/prisma/presentation"
-  name = "presentation"
+  name = "Présentation"
   parent="recherche/nucleaire-et-environnement/prisma"
 +++
 <p>L'équipe <strong>PRISMA</strong> (<strong>P</strong>hysique des <strong>R</strong>ayonnements <strong>I</strong>onisants et du <strong>S</strong>pectre électromagnétique pour le <strong>M</strong>esure et les <strong>A</strong>pplications) mène des recherches, fondamentales et plus appliquées, sur l’interaction des rayonnements et particules avec la matière et leur utilisation pour la production de radionucléides innovants, des études dosimétriques pour la radiobiologie, l’analyse élémentaire et le contrôle non destructif de matériaux et de structures.</p>

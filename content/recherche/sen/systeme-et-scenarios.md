@@ -8,12 +8,8 @@ category = "sen"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/neutrino/activites-de-recherche/scenarios-electro-nucleaires"
-  name = "scenarios-electro-nucleaires"
+  name = "Scénarios électro-nucléaires"
   parent="recherche/univers-a-haute-energie/neutrino/activites-de-recherche"
-[menu.side]
-  identifier= "recherche/neutrino/activites-de-recherche/scenarios-electro-nucleaires"
-  name = "scenarios-electro-nucleaires"
-  parent="recherche/neutrino/activites-de-recherche"
 +++
 <li>
 <p><a href="recherche/sen/introduction-et-contexte.md">Introduction et contexte</a></p>

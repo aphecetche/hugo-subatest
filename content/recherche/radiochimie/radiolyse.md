@@ -8,7 +8,7 @@ category = "radiochimie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/radiochimie/recherche/radiolyse"
-  name = "radiolyse"
+  name = "Physico-chimie sous irradiation"
   parent="recherche/nucleaire-et-environnement/radiochimie/recherche"
 +++
 <p><strong>L</strong>a radiolyse est l’ensemble des transformations chimiques provoquées dans la matière par l’absorption de l’énergie d’un rayonnement ionisant. La radiolyse est donc présente à chaque étape du cycle électronucléaire: cœur du réacteur, retraitement, stockage des déchets… Les conséquences de la radiolyse alpha et gamma sur les systèmes étudiés sont très différentes et impliquent des études parallèles et complémentaires. Celles-ci ont débutées à SUBATECH par une collaboration avec le <a href="http://www.lcp.u-psud.fr/" target="_blank">LCP d’Orsay</a> dans le cadre d’une thèse de doctorat en 2006. Elles se poursuivent aujourd’hui en lien étroit avec le cyclotron <a href="http://www.cyclotron-nantes.fr/" target="_blank">ARRONAX</a>. Ces projets de recherche sont fortement structurants et font partie  d’un programme interdisciplinaire et inter laboratoires.</p>

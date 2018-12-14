@@ -8,7 +8,7 @@ category = "xenon"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-sante/xenon/publications"
-  name = "publications"
+  name = "Publications"
   parent="recherche/nucleaire-et-sante/xenon"
 +++
 <h1 id="publications_du_groupe_xenon" class="sectionedit1">Publications du groupe Xénon</h1>

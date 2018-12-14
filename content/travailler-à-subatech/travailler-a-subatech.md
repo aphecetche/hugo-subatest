@@ -7,7 +7,7 @@ joomlaid = 149
 category = "Travailler à Subatech "
 [menu.main]
   identifier= "laboratoire/nos-activites/travailler-a-subatech"
-  name = "travailler-a-subatech"
+  name = "Travailler à SUBATECH"
   parent="laboratoire/nos-activites"
 +++
 <p>A l'été 2012, environ 200 personnes travaillent à Subatech couvrant de très nombreux types de métiers et sous des status très variés (fonctionnaire, CDD, stagiaire, etc...). De temps en temps des offres sont proposées afin d'intégrer une équipe de recherche ou un service du laboratoire. <span class="xtd_task_name">Cette page recense les opportunités qui peuvent se présenter pour faire un stage ou répondre à une offre d'emploi.</span></p>

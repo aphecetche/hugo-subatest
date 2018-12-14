@@ -7,7 +7,7 @@ joomlaid = 337
 category = "Smart"
 [menu.main]
   identifier= "mesures/contact"
-  name = "contact"
+  name = "Contact"
   parent="mesures"
 +++
 <p><img src="images/SMART/Franck_Gllen_-_pix_machine-2.jpg" alt="Franck Gllen - pix machine-2" title="(c) Franck Gllen - pix machine-2" width="676" height="217"/></p>

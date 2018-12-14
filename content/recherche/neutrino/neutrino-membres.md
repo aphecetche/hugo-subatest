@@ -8,12 +8,8 @@ category = "neutrino"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/neutrino/membres"
-  name = "membres"
+  name = "Membres"
   parent="recherche/univers-a-haute-energie/neutrino"
-[menu.side]
-  identifier= "recherche/neutrino/membres"
-  name = "membres"
-  parent="recherche/neutrino"
 +++
 <p>{loadposition membres}</p>
 <p><strong>Émérite </strong></p>

@@ -7,7 +7,7 @@ joomlaid = 220
 category = "Communication"
 [menu.main]
   identifier= "communication/presentation"
-  name = "presentation"
+  name = "Présentation"
   parent="communication"
 +++
 <blockquote>

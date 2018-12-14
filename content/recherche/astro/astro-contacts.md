@@ -8,12 +8,8 @@ category = "astro"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/astro/contacts"
-  name = "contacts"
+  name = "Contacts"
   parent="recherche/univers-a-haute-energie/astro"
-[menu.side]
-  identifier= "recherche/astro/contacts"
-  name = "contacts"
-  parent="recherche/astro"
 +++
 <p>Pour toute question concernant le groupe et ses activités, contactez <strong>son responsable</strong> actuel : <a href="mailto:benoit.revenu@subatech.in2p3.fr">benoit.revenu@subatech.in2p3.fr</a>.</p>
 <p> </p>

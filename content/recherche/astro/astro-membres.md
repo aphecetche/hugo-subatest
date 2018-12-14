@@ -8,12 +8,8 @@ category = "astro"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/astro/membres"
-  name = "membres"
+  name = "Membres"
   parent="recherche/univers-a-haute-energie/astro"
-[menu.side]
-  identifier= "recherche/astro/membres"
-  name = "membres"
-  parent="recherche/astro"
 +++
 <h2><strong><span>Responsable de CODALEMA : Lilian Martin</span></strong></h2>
 <p> </p>

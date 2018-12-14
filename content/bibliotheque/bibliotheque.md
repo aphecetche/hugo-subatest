@@ -7,7 +7,7 @@ joomlaid = 6
 category = "Bibliotheque"
 [menu.main]
   identifier= "communication/bibliotheque/accueil"
-  name = "accueil"
+  name = "Accueil"
   parent="communication/bibliotheque"
 +++
 <p>Ces pages recensent les outils et ressources documentaires disponibles pour le personnel du laboratoire. Des indications sont également fournies pour déposer des documents dans l'archive ouverte HAL.</p>

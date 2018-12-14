@@ -8,7 +8,7 @@ category = "xenon"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-sante/xenon/liens"
-  name = "liens"
+  name = "Liens"
   parent="recherche/nucleaire-et-sante/xenon"
 +++
 <h3>La Collaboration XENON est...</h3>

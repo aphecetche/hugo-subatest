@@ -8,7 +8,7 @@ category = "radiochimie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/radiochimie/recherche/transfert"
-  name = "transfert"
+  name = "Transfert"
   parent="recherche/nucleaire-et-environnement/radiochimie/recherche"
 +++
 <p><strong> <img src="images/Recherche/Radiochimie/transf-1.jpg" alt="transf-1" width="240"/>I</strong>l concerne l’étude du transfert des radioisotopes dans les barrières des stockages de déchets radioactifs et l’étude du comportement des radioisotopes artificiels ou naturels dans la biosphère et géosphère. L’objectif final est de permettre une description quantitative de ce transfert via l’utilisation des codes de calcul géochimiques. On peut citer ci-dessous les compétences développées pour atteindre cet objectif: L’étude de systèmes modèles qui ne sont pas encore bien compris. Ce travail de base passe par une étude expérimentale au niveau moléculaire et macroscopique qui est complétée par une approche de <a href="fr/component/content/article/15-recherche/radiochimie-recherche/116-modelisation">modélisation moléculaire</a>.</p>

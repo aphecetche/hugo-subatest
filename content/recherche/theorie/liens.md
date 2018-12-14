@@ -8,12 +8,8 @@ category = "theorie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/theorie/liens"
-  name = "liens"
+  name = "Liens"
   parent="recherche/univers-a-haute-energie/theorie"
-[menu.side]
-  identifier= "recherche/theorie/liens"
-  name = "liens"
-  parent="recherche/theorie"
 +++
 <p><strong>Quelques sites de vulgarisation:</strong></p>
 <ul>

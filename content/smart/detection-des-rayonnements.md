@@ -7,7 +7,7 @@ joomlaid = 332
 category = "Smart"
 [menu.main]
   identifier= "mesures/nos-prestations/detection-des-rayonnements"
-  name = "detection-des-rayonnements"
+  name = "Détection des rayonnements"
   parent="mesures/nos-prestations"
 +++
 <p>Le service possède de nombreux systèmes de détection qui varient selon la nature du rayonnement à détecter.</p>

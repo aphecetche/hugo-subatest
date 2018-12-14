@@ -8,7 +8,7 @@ category = "sen"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/sen/publications"
-  name = "publications"
+  name = "Publications"
   parent="recherche/nucleaire-et-environnement/sen"
 +++
 <h2>Publications dans journaux avec comité de lecture</h2>

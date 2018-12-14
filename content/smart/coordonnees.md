@@ -7,7 +7,7 @@ joomlaid = 336
 category = "Smart"
 [menu.main]
   identifier= "mesures/contact/coordonnees"
-  name = "coordonnees"
+  name = "Coordonnées"
   parent="mesures/contact"
 +++
 <p>Standard : 02.51.85.84.01</p>

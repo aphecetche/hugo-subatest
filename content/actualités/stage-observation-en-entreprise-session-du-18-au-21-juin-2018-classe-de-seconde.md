@@ -7,7 +7,7 @@ joomlaid = 443
 category = "Actualités"
 [menu.main]
   identifier= "laboratoire/venir-a-subatech/stages-d-observation"
-  name = "stages-d-observation"
+  name = "Stages d'observation"
   parent="laboratoire/venir-a-subatech"
 +++
 <p>Généralités</p>

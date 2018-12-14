@@ -8,7 +8,7 @@ category = "prisma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/prisma/recherche"
-  name = "recherche"
+  name = "Activités de recherche"
   parent="recherche/nucleaire-et-environnement/prisma"
 +++
 <p><strong>Production de radionucléides innovants pour les utilisations médicales</strong></p>

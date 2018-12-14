@@ -7,7 +7,7 @@ joomlaid = 397
 category = "Enseignement"
 [menu.main]
   identifier= "enseignement/masters/mars/emplois-du-temps-dmn-ria-rps"
-  name = "emplois-du-temps-dmn-ria-rps"
+  name = "Emplois du temps DMN-RIA-RPS"
   parent="enseignement/masters/mars"
 +++
 <p>{emailcloak=off}</p>

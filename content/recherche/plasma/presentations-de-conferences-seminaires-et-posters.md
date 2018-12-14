@@ -8,12 +8,8 @@ category = "plasma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/plasma/communication"
-  name = "communication"
+  name = "Présentations de conférences, séminaires et posters"
   parent="recherche/univers-a-haute-energie/plasma"
-[menu.side]
-  identifier= "recherche/plasma/communication"
-  name = "communication"
-  parent="recherche/plasma"
 +++
 <h3>2018</h3>
 <ul>

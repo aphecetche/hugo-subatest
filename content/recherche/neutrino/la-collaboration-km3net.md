@@ -8,12 +8,8 @@ category = "neutrino"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/neutrino/activites-de-recherche/km3net"
-  name = "km3net"
+  name = "KM3NeT"
   parent="recherche/univers-a-haute-energie/neutrino/activites-de-recherche"
-[menu.side]
-  identifier= "recherche/neutrino/activites-de-recherche/km3net"
-  name = "km3net"
-  parent="recherche/neutrino/activites-de-recherche"
 +++
 <p><img src="images/Recherche/neutrino/KM3NeT/KM3NeT_logo.jpg" alt="KM3NeT logo" width="80" height="81"/><a href="http://www.km3net.org">KM3NeT</a> (Cubic KiloMetre Neutrino Telescope) est à la fois une infrastructure de recherche et la collaboration réunissant les équipes engagées dans la réalisation de cette infrastructure. Elle englobe deux télescopes à neutrino gigantesques installés aux fonds de la mer Méditerranée au large de Toulon et de la pointe Sud de la Sicile. De grands volumes sont instrumentés de modules optiques capables d'enregistrer la lumière Cerenkov produite par la décroissance des neutrinos dans la matière. L'un de ces ensembles <a href="https://www.km3net.org/research/physics/particle-physics-with-orca/">ORCA</a> (Oscillation Research with Cosmics in the Abyss) s'intéresse aux propriétés des neutrinos (nombre, hierarchie de masse) tandis que le second <a href="https://www.km3net.org/research/physics/astronomy-with-arca/">ARCA</a> (Astroparticle Research with Cosmics in the Abyss) sera dédié à l'observation des neutrinos cosmiques.</p>
 <p><img src="images/Recherche/neutrino/KM3NeT/KM3NeT-NeutrinoToMuon.png" alt="KM3NeT NeutrinoToMuon" width="400" height="309" title="Un neutrino décroit en un muon détecté dans KM3NeT grace à la lumière qu'il produit dans l'eau"/><img src="images/Recherche/neutrino/KM3NeT/Album-DOM-in-DU.png" alt="Album DOM in DU" width="200" height="272" title="Un module optique installé sur une ligne de détection"/>Pour observer la lumière produite, des modules optiques comprenant 31 photomultiplicateurs et leur électronique de lecture et de contrôle ont été développés. Ces modules sont associés par groupe de 18 pour former des lignes de détection. 115 de ces lignes sont prévues pour former l'ensemble ORCA et 230 lignes serviront pour réaliser ARCA. KM3NeT est actuellement en cours de construction. Les premières lignes ont été immergées en 2017 et seront rapidement completées pour former la Phase 1 des détecteurs. Au terme de plusieurs années de construction, les deux ensembles atteindront leur taille finale et leur pleines capacités d'observation.</p>

@@ -8,12 +8,8 @@ category = "astro"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/astro/communication"
-  name = "communication"
+  name = "Présentations de conférences, séminaires et posters"
   parent="recherche/univers-a-haute-energie/astro"
-[menu.side]
-  identifier= "recherche/astro/communication"
-  name = "communication"
-  parent="recherche/astro"
 +++
 <p><img src="images/Recherche/Astro/Sans_nom_lun._sept._24_2012.png" alt="Sans nom lun. sept. 24 2012" width="200" height="401"/>Voici une liste probablement non exhaustive des présentations faites par les membres du groupe lors de conférences et de workshops. Les comptes-rendus et éventuellement les présentations sont accessibles sur le site de Codalema (partie publique) dans la rubrique <a href="http://codalema.in2p3.fr/spip.php?rubrique14" target="_blank">"Documents/Conferences"</a>. Notre groupe proposent généralement une ou plusieurs contributions orales aux ateliers et conférences en lien direct avec les rayons cosmiques et la radio détection.</p>
 <ul>

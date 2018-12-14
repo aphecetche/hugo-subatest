@@ -8,12 +8,8 @@ category = "plasma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/plasma/equipements-methodes-et-techniques"
-  name = "equipements-methodes-et-techniques"
+  name = "Equipements, méthodes et techniques"
   parent="recherche/univers-a-haute-energie/plasma"
-[menu.side]
-  identifier= "recherche/plasma/equipements-methodes-et-techniques"
-  name = "equipements-methodes-et-techniques"
-  parent="recherche/plasma"
 +++
 <h2>Les accélérateurs</h2>
 <h1> </h1>

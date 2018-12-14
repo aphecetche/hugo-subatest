@@ -8,7 +8,7 @@ category = "xenon"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-sante/xenon/membres"
-  name = "membres"
+  name = "Membres"
   parent="recherche/nucleaire-et-sante/xenon"
 +++
 <p><img alt="Photo Xenon Group" src="images/Recherche/Xenon/PhotoXenonGroup.jpg" usemap="#xenonmap" height="500" width="667"/></p>

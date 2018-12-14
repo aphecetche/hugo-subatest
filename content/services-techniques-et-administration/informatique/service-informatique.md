@@ -8,7 +8,7 @@ category = "Informatique"
 layout="services-techniques-et-administration"
 [menu.main]
   identifier= "services-techniques/informatique/presentation"
-  name = "presentation"
+  name = "Présentation"
   parent="services-techniques/informatique"
 +++
 <p>Les missions du Service Informatique sont les suivantes :</p>

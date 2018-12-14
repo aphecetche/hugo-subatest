@@ -8,7 +8,7 @@ category = "prisma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/prisma/theses"
-  name = "theses"
+  name = "Thèses "
   parent="recherche/nucleaire-et-environnement/prisma"
 +++
 <p><span><strong>EN PRÉPARATION</strong></span></p>

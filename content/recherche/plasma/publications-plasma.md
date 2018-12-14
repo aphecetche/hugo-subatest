@@ -8,12 +8,8 @@ category = "plasma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/plasma/publications"
-  name = "publications"
+  name = "Publications"
   parent="recherche/univers-a-haute-energie/plasma"
-[menu.side]
-  identifier= "recherche/plasma/publications"
-  name = "publications"
-  parent="recherche/plasma"
 +++
 <h3><a href="http://aliceinfo.cern.ch/ArtSubmission/publications" target="_blank"> Publications avec la collaboration ALICE dans la page web d'ALICE / Publications with ALICE collaboration from ALICE web page </a></h3>
 <h3><a href="http://inspirehep.net/search?ln=en&amp;ln=en&amp;p=find+%!a(MISSING)+aphecetche+and+cn+alice%!&(MISSING)amp;of=hb&amp;action_search=Search&amp;sf=&amp;so=d&amp;rm=&amp;rg=25&amp;sc=0" target="_blank"> Publications avec la collaboration ALICE dans inSPIRE / Publications with ALICE collaboration from inSPIRE (it includes arxiv articles submitted but not yet published) </a></h3>

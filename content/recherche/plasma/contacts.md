@@ -8,12 +8,8 @@ category = "plasma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/plasma/contacts"
-  name = "contacts"
+  name = "Contact"
   parent="recherche/univers-a-haute-energie/plasma"
-[menu.side]
-  identifier= "recherche/plasma/contacts"
-  name = "contacts"
-  parent="recherche/plasma"
 +++
 <p>Chef du groupe / Plasma team leader : <a href="http://gines.web.cern.ch/">Gines Martinez</a></p>
 <p>Chef Muon/ Muon team leader : Laurent Aphecetche.</p>

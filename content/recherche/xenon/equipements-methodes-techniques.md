@@ -8,7 +8,7 @@ category = "xenon"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-sante/xenon/equipements-methodes-techniques"
-  name = "equipements-methodes-techniques"
+  name = "Equipements, méthodes et techniques"
   parent="recherche/nucleaire-et-sante/xenon"
 +++
 <p>Equipements, méthodes et techniques - Xenon</p>

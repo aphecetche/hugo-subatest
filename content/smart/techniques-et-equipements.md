@@ -7,7 +7,7 @@ joomlaid = 329
 category = "Smart"
 [menu.main]
   identifier= "mesures/le-service-smart/techniques-et-equipements"
-  name = "techniques-et-equipements"
+  name = "Techniques et équipements"
   parent="mesures/le-service-smart"
 +++
 <p><strong>462 m² de laboratoires</strong></p>

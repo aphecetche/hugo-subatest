@@ -7,7 +7,7 @@ joomlaid = 338
 category = "Smart"
 [menu.main]
   identifier= "mesures/liens"
-  name = "liens"
+  name = "Liens"
   parent="mesures"
 +++
 <h3>Nos Partenaires</h3>

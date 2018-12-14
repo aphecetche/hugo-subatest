@@ -8,12 +8,8 @@ category = "astro"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/astro/recherche"
-  name = "recherche"
+  name = "Activités de recherche"
   parent="recherche/univers-a-haute-energie/astro"
-[menu.side]
-  identifier= "recherche/astro/recherche"
-  name = "recherche"
-  parent="recherche/astro"
 +++
 <p><img src="images/Recherche/Astro/CodalemaRT.png" alt="CodalemaRT" width="300" height="151"/></p>
 <p>Les activités de recherche du groupe sont essentiellement centrées autour de la radio-détection des rayons cosmiques d'ultra haute énergie.</p>

@@ -8,7 +8,7 @@ category = "sen"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/sen/membres"
-  name = "membres"
+  name = "Membres"
   parent="recherche/nucleaire-et-environnement/sen"
 +++
 <p>{loadposition membres}</p>

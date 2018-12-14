@@ -8,12 +8,8 @@ category = "plasma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/plasma/recherche"
-  name = "recherche"
+  name = "Activités de recherche"
   parent="recherche/univers-a-haute-energie/plasma"
-[menu.side]
-  identifier= "recherche/plasma/recherche"
-  name = "recherche"
-  parent="recherche/plasma"
 +++
 <p>
 Un état déconfiné de la matière nucléaire, le plasma de quarks et de gluons (PQG), devrait exister à très haute température et densité d’énergie, selon les calculs de QCD sur réseau. Il est attendu que cet état atypique de la matière soit produit aux premiers <img src="images/Recherche/Plasma/jet-quenching.jpg" alt="jet-quenching" height="204" width="266"/> instants de collisions d’ions lourds ultra-relativistes. Cette prédiction a motivé, depuis plus de 25 ans, la mise en place d’un important programme expérimental dédié à l’étude des collisions d’ions lourds. Des évidences expérimentales ont été observées à l’accélérateur SPS au <a href="www.cern.ch">CERN</a> avec la mesure de la suppression anormale du charmonium dans les collisions PbPb les plus centrales à 17 GeV dans le centre de masse. Depuis 2000, en particulier, le Relativistic Heavy Ion Collider au <a>Brookhaven National Laboratory (BNL, USA)</a> a collecté d’importants résultats qui ont donné lieu à l’annonce officielle de la découverte d’un nouvel état de la matière de très petite viscosité.</p>

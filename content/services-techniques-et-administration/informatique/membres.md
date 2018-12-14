@@ -8,7 +8,7 @@ category = "Informatique"
 layout="services-techniques-et-administration"
 [menu.main]
   identifier= "services-techniques/informatique/membres"
-  name = "membres"
+  name = "Membres"
   parent="services-techniques/informatique"
 +++
 <p>{loadposition membres}</p>

@@ -8,7 +8,7 @@ category = "prisma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/prisma/communication"
-  name = "communication"
+  name = "Présentations de conférences, séminaires et posters"
   parent="recherche/nucleaire-et-environnement/prisma"
 +++
 <p><strong>PRÉSENTATIONS DE CONFÉRENCES </strong><em>(séminaires et posters ci-dessous)<strong></strong></em></p>

@@ -8,12 +8,8 @@ category = "astro"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/astro/theses"
-  name = "theses"
+  name = "Thèses "
   parent="recherche/univers-a-haute-energie/astro"
-[menu.side]
-  identifier= "recherche/astro/theses"
-  name = "theses"
-  parent="recherche/astro"
 +++
 <p>Les thèses actuellement en cours sont listées ci-dessous :</p>
 <ul>

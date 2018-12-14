@@ -8,7 +8,7 @@ category = "radiochimie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/radiochimie/liens"
-  name = "liens"
+  name = "Liens"
   parent="recherche/nucleaire-et-environnement/radiochimie"
 +++
 <p>Quelques liens pertinents pour la thématique : sites du vulgarisation, bases de données, banques d'images et de vidéos, etc...</p>

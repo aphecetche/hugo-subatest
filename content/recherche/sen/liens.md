@@ -8,7 +8,7 @@ category = "sen"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/sen/liens"
-  name = "liens"
+  name = "Liens"
   parent="recherche/nucleaire-et-environnement/sen"
 +++
 <p>Voici quelques liens pertinents pour nos activités :</p>

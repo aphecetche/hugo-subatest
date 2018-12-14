@@ -7,7 +7,7 @@ joomlaid = 330
 category = "Smart"
 [menu.main]
   identifier= "mesures/nos-prestations/prelevements"
-  name = "prelevements"
+  name = "Prélèvements"
   parent="mesures/nos-prestations"
 +++
 <p><img title="Prélèvement (c) SMART" src="images/SMART/SMART.jpg" alt="SMART" width="519" height="276"/>Première étape du processus d’analyse, le prélèvement est une phase technique primordiale. L’échantillon prélevé doit être représentatif, ne pas subir d’altération ou être pollué avant l’analyse.</p>

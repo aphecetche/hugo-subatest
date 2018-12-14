@@ -8,12 +8,8 @@ category = "theorie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/theorie/presentation"
-  name = "presentation"
+  name = "Présentation"
   parent="recherche/univers-a-haute-energie/theorie"
-[menu.side]
-  identifier= "recherche/theorie/presentation"
-  name = "presentation"
-  parent="recherche/theorie"
 +++
 <p>Le groupe de théorie de Subatech se compose de onze membres permanents, travaillant dans des thématiques de recherche variées mais trouvant un dénominateur commun dans la physique nucléaire et l'interaction forte. Les activités du groupe peuvent se classer dans deux domaines principaux:</p>
 <p>- <a href="recherche/theorie/theoriebe-presentation.md">Activités ¨basses énergies¨</a>:  étude de la matière nucléaire, de ses constituants et de leurs interactions dans le domaine des énergies de l'ordre de l'énergie de Fermi.</p>

@@ -8,7 +8,7 @@ category = "prisma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/prisma/membres"
-  name = "membres"
+  name = "Membres"
   parent="recherche/nucleaire-et-environnement/prisma"
 +++
 <p>{loadposition membres}</p>

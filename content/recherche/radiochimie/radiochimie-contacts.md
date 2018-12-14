@@ -8,7 +8,7 @@ category = "radiochimie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/radiochimie/contacts"
-  name = "contacts"
+  name = "Contacts"
   parent="recherche/nucleaire-et-environnement/radiochimie"
 +++
 <p>Liste des contacts pour joindre la radiochimie </p>

@@ -7,7 +7,7 @@ joomlaid = 326
 category = "Smart"
 [menu.main]
   identifier= "mesures/le-service-smart/presentation"
-  name = "presentation"
+  name = "Présentation"
   parent="mesures/le-service-smart"
 +++
 <div align="left"> </div>

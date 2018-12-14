@@ -8,11 +8,7 @@ category = "plasma"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/plasma/membres"
-  name = "membres"
+  name = "Membres"
   parent="recherche/univers-a-haute-energie/plasma"
-[menu.side]
-  identifier= "recherche/plasma/membres"
-  name = "membres"
-  parent="recherche/plasma"
 +++
 <p>{loadposition membres}</p>

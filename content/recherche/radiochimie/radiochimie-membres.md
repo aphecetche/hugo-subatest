@@ -8,7 +8,7 @@ category = "radiochimie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/radiochimie/membres"
-  name = "membres"
+  name = "Membres"
   parent="recherche/nucleaire-et-environnement/radiochimie"
 +++
 {loadposition membres}

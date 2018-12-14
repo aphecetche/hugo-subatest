@@ -8,7 +8,7 @@ category = "xenon"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-sante/xenon/presentations-de-conferences-seminaires-et-posters"
-  name = "presentations-de-conferences-seminaires-et-posters"
+  name = "Présentations de conférences, séminaires et posters"
   parent="recherche/nucleaire-et-sante/xenon"
 +++
 <h2>Conférences, séminaires et posters 2016</h2>

@@ -7,7 +7,7 @@ joomlaid = 328
 category = "Smart"
 [menu.main]
   identifier= "mesures/le-service-smart/moyens-humains"
-  name = "moyens-humains"
+  name = "Moyens humains"
   parent="mesures/le-service-smart"
 +++
 <p>Grâce à son équipe expérimentée, le service SMART offre une gamme complète de prestations : prélèvements sur sites, analyses et conseils.</p>

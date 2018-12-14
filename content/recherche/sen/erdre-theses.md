@@ -8,7 +8,7 @@ category = "sen"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/sen/theses"
-  name = "theses"
+  name = "Thèses"
   parent="recherche/nucleaire-et-environnement/sen"
 +++
 <h2>Theses en cours</h2>

@@ -7,7 +7,7 @@ joomlaid = 327
 category = "Smart"
 [menu.main]
   identifier= "mesures/le-service-smart/accreditations-et-agrements"
-  name = "accreditations-et-agrements"
+  name = "Accréditations et agréments"
   parent="mesures/le-service-smart"
 +++
 <p>SMART est accrédité par le COFRAC depuis 1998 selon le référentiel NF EN ISO 17025 (Accréditation n°<a href="http://www.cofrac.fr/annexes/sect1/1-0910.pdf">1-0910</a>) pour :</p>

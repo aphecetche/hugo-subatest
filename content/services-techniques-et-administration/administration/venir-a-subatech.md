@@ -8,7 +8,7 @@ category = "Administration"
 layout="services-techniques-et-administration"
 [menu.main]
   identifier= "laboratoire/venir-a-subatech/plan-dacces"
-  name = "plan-dacces"
+  name = "Accès"
   parent="laboratoire/venir-a-subatech"
 +++
 <p> </p>

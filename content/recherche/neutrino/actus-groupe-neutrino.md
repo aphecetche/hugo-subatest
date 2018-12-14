@@ -8,12 +8,8 @@ category = "neutrino"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/neutrino/actualites"
-  name = "actualites"
+  name = "Actualités"
   parent="recherche/univers-a-haute-energie/neutrino"
-[menu.side]
-  identifier= "recherche/neutrino/actualites"
-  name = "actualites"
-  parent="recherche/neutrino"
 +++
 <h3>Juillet  2017 : Reunion JUNO (Peking, China)</h3>
 <p>Deux reunions (electronique et physique) de la collaboration JUNO en Chine. Ici des photos d'une visite du laboratoire à IHEP et un diner avec nos collègues  </p>

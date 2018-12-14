@@ -8,12 +8,8 @@ category = "theorie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/theorie/activites-de-recherche/hautes-energies"
-  name = "hautes-energies"
+  name = "Hautes Energies"
   parent="recherche/univers-a-haute-energie/theorie/activites-de-recherche"
-[menu.side]
-  identifier= "recherche/theorie/activites-de-recherche/hautes-energies"
-  name = "hautes-energies"
-  parent="recherche/theorie/activites-de-recherche"
 +++
 <p>Une thématique importante de notre groupe est la phénoménologie de l'interaction forte (décrite par la Chromodynamique Quantique, QCD), notamment l´étude des processus durs dans les collisions hadroniques élémentaires, mais aussi l´étude globale d'événements dans les collisions d'ions lourds. Une activité essentielle est la recherche et la caractérisation du plasma de quarks et de gluons, qui est aussi le projet phare du groupe expérimental <a href="recherche/plasma/presentation-groupe-plasma.md">Plasma</a> de Subatech.</p>
 <p>Subatech étant un laboratoire à dominante expérimentale, une place importante au dialogue expérience-théorie est faite, que ce soit via l'exploration de phénomènes observés en partenariat avec différentes collaborations expérimentales, le développement de codes de simulation (tels BQMD, IQMD, EPOS et CONEX, utilisés par de nombreux groupes pour analyser et interpréter leurs données), mais aussi à travers les propositions d'analyses à envisager.</p>

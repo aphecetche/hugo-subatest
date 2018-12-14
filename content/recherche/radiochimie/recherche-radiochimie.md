@@ -8,7 +8,7 @@ category = "radiochimie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/radiochimie/recherche"
-  name = "recherche"
+  name = "Activités de recherche"
   parent="recherche/nucleaire-et-environnement/radiochimie"
 +++
 <p><img src="images/Recherche/Radiochimie/radiochimie.jpg" alt="radiochimie" width="400"/></p>

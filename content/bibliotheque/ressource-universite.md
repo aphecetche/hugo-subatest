@@ -7,7 +7,7 @@ joomlaid = 170
 category = "Bibliotheque"
 [menu.main]
   identifier= "communication/bibliotheque/ressources-documentaires/ressources-universite"
-  name = "ressources-universite"
+  name = "Université"
   parent="communication/bibliotheque/ressources-documentaires"
 +++
 <p> </p>

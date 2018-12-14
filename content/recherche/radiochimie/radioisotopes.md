@@ -8,7 +8,7 @@ category = "radiochimie"
 layout="recherche"
 [menu.main]
   identifier= "recherche/nucleaire-et-environnement/radiochimie/recherche/radioisotopes"
-  name = "radioisotopes"
+  name = "Radioisotopes & ultra-traces"
   parent="recherche/nucleaire-et-environnement/radiochimie/recherche"
 +++
 <p><strong><img src="images/Recherche/Radiochimie/isotopes-1.jpg" alt="isotopes-1" width="240"/>L</strong>e thème s’intéresse à l’étude du comportement des radioisotopes (RIs) en solution aqueuse à l’échelle des ultra-traces, que ce soit dans un contexte médical (en lien avec le labex <a href="http://www.labex-iron.com/" target="_blank">IRON</a>) ou environnemental (en lien avec l’<a href="http://www.osuna.univ-nantes.fr/" target="_blank">OSUNA</a>). Ces activités se basent sur une double approche aux échelles moléculaire (modélisation moléculaire, techniques spectroscopiques) et macroscopique (techniques de spéciation, chimie en solution). Les activités en lien avec l’<a href="http://www.osuna.univ-nantes.fr/" target="_blank">OSUNA</a> sont réalisées en interface directe avec le thème « transfert » et ont pour volonté de développer des méthodes de mesure et de spéciation des RIs artificiels ou naturels, tel le tritium, présents dans l’environnement à l’échelle des ultra-traces.</p>

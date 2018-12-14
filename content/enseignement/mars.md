@@ -7,7 +7,7 @@ joomlaid = 294
 category = "Enseignement"
 [menu.main]
   identifier= "enseignement/masters/mars/programme"
-  name = "programme"
+  name = "Programme"
   parent="enseignement/masters/mars"
 +++
 <p><img alt="BandeauMARS2012" src="images/Enseignement/BandeauMARS2012.jpg" width="75%!"(MISSING)/></p>

@@ -8,12 +8,8 @@ category = "astro"
 layout="recherche"
 [menu.main]
   identifier= "recherche/univers-a-haute-energie/astro/equipements-methodes-techniques"
-  name = "equipements-methodes-techniques"
+  name = "Equipements, méthodes et techniques"
   parent="recherche/univers-a-haute-energie/astro"
-[menu.side]
-  identifier= "recherche/astro/equipements-methodes-techniques"
-  name = "equipements-methodes-techniques"
-  parent="recherche/astro"
 +++
 <p>Nos activités de recherche nécessite le développement à la fois d'instruments et d'équipements spécifiques et à la fois de méthodes et de techniques d'analyse qui nous sont propres.</p>
 <h2>Equipements et instruments</h2>

@@ -7,7 +7,7 @@ joomlaid = 339
 category = "Smart"
 [menu.main]
   identifier= "mesures/liens/institutions"
-  name = "institutions"
+  name = "Institutions"
   parent="mesures/liens"
 +++
 <p>Autorité de sûreté nucléaire (<a href="http://www.asn.fr/">ASN</a>)</p>

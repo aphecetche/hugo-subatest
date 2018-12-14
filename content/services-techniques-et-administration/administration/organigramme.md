@@ -8,7 +8,7 @@ category = "Administration"
 layout="services-techniques-et-administration"
 [menu.main]
   identifier= "laboratoire/nos-activites/organigramme"
-  name = "organigramme"
+  name = "Organigramme"
   parent="laboratoire/nos-activites"
 +++
 <p><a href="images/Administration/Organigramme_externe_102018.pdf">[ Version imprimable (PDF) ]</a></p>

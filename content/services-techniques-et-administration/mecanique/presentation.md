@@ -8,7 +8,7 @@ category = "Mecanique"
 layout="services-techniques-et-administration"
 [menu.main]
   identifier= "services-techniques/mecanique/presentation"
-  name = "presentation"
+  name = "Présentation"
   parent="services-techniques/mecanique"
 +++
 <h3></h3>
