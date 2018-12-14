@@ -12,7 +12,7 @@
     "hugo:local": "URL=localhost:1313 npm run hugo:serve",
     "hugo:home": "URL=http://$(ip route get 8.8.8.8 | head -1 | cut -d' ' -f8) npm run hugo:serve",
     "start": "npm run clean:public && npm-run-all --parallel css:watch hugo:home",
-    "build": "npm run css:build && hugo --baseURL $URL --config config.toml,menu.toml"
+    "build": "npm run css:build && URL=localhost:1313 hugo --baseURL $URL --config config.toml,menu.toml"
   },
   "repository": {
     "type": "git",

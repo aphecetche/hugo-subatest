@@ -1,35 +1,23 @@
-<!-- sidebar start -->
-<aside>
-    <ul>
-        {{ $currentPage := . }} 
-        {{ range .Site.Menus.side }} 
-        {{ if .HasChildren }}
-        <li class="{{ if $currentPage.HasMenuCurrent " main " . }}active{{ end }}">
-            <a href="#">
-                {{ .Pre }}
-                <span>{{ .Name }}</span>
-            </a>
+<nav id="nav-secondary" role="navigation" class="column">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.side }}
+    {{ if eq $currentPage.Dir (print .Name "/") }}
+    {{ if .HasChildren }}
+    <ul class="menu">
+        {{ range .Children }}
+        <li class="{{ if $currentPage.IsMenuCurrent " main " . }}active{{ end }}">
+            <a href="{{ .URL }}">{{ .Name }}</a>
         </li>
-        <ul class="sub-menu">
-            {{ range .Children }}
-            <li class="{{ if $currentPage.IsMenuCurrent " main " . }}active{{ end }}">
-                <a href="{{ .URL }}">{{ .Name }}</a>
-            </li>
-            {{ end }}
-        </ul>
-        {{ else }}
-        <li>
-            <a href="{{ .URL }}">
-                {{ .Pre }}
-                <span>{{ .Name }}</span>
-            </a>
-        </li>
-        {{ end }} {{ end }}
-        <li>
-            <a href="#" target="_blank">Hardcoded Link 1</a>
-        </li>
-        <li>
-            <a href="#" target="_blank">Hardcoded Link 2</a>
-        </li>
+        {{ end }}
     </ul>
-</aside>
+    {{ else }}
+    <li>
+        <a href="{{ .URL }}">
+            {{ .Pre }}
+            <span>{{ .Name }}</span>
+        </a>
+    </li>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+</nav>

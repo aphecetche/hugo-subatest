@@ -1,17 +1,16 @@
 <nav id="nav-primary" role="navigation">
     <ul class="menu">
-        {{ $currentPage := . }} {{ range .Site.Menus.main }} {{ if .HasChildren }}
+        {{ $currentPage := . }} {{ range .Site.Menus.main.ByWeight }} {{ if .HasChildren }}
         <li class="{{ if $currentPage.HasMenuCurrent " main " . }}active{{ end }}">
-            <a href="#">
+            <a href="{{ .URL }}" class="level1">
                 {{ .Pre }}
                 <span>{{ .Name }}</span>
             </a>
-        </li>
         <ul>
             {{ range .Children }} {{ if .HasChildren }}
             <li class="{{ if $currentPage.IsMenuCurrent " main " . }}active{{ end }}">
                 {{ if .URL }}
-                <a href="#">
+                <a href="{{ .URL }}" class="level2">
                     {{ .Pre }}
                     <span>{{ .Name }}</span>
                 </a>
@@ -21,7 +20,7 @@
                 <ul>
                     {{ range .Children }}
                     <li class="{{ if $currentPage.IsMenuCurrent " main " . }}active{{ end }}">
-                        <a href="{{ .URL }}">{{ .Name }}</a>
+                        <a href="{{ .URL }}" class="level3">{{ .Name }}</a>
                     </li>
                     {{ end }}
                 </ul>
@@ -29,16 +28,17 @@
             {{ else }}
             <li>
                 {{ if .URL }}
-                <a href="{{ .URL }}">{{ .Name }}</a>
+                <a href="{{ .URL }}" class="level4">{{ .Name }}</a>
                 {{ else }}
                 <span class="separator"> {{ .Name }}</span>
                 {{ end }}
             </li>
             {{ end }} {{ end }}
         </ul>
+        </li>
         {{ else }}
         <li>
-            <a href="{{ .URL }}">
+            <a href="{{ .URL }}" class="level5">
                 {{ .Pre }}
                 <span>{{ .Name }}</span>
             </a>

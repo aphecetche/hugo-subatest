@@ -1,7 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+{{ partial "head" . }}
+
+<body class="clearfix twocol regularnav">
+
+    {{ partial "logo" . }}
+
+    {{ partial "nav" . }}
+
+    {{ partial "banner" . }}
+
+    <div id="wrapper" class="clearfix">
+
+    {{ partial "sidemenu" . }}
+
+        <section role="main" id="content" class="column">
+
+            {{ .Content }}
 
 
-this is recherche
+        </section>
+    </div>
 
-{{ .Content }}
+    {{ partial "footer" . }}
 
-{{ partial "sidemenu" . }}
+</body>
+
+</html>
