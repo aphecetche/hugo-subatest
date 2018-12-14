@@ -5,3 +5,4 @@ cmake*
 node_modules
 *.sassc
 *.min.css
+package-lock.json
