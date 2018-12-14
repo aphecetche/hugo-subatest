@@ -4,5 +4,4 @@ cmake*
 .idea/
 node_modules
 *.sassc
-package-lock.json
 *.min.css

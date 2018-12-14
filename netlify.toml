@@ -1,0 +1,13 @@
+[build]
+publish = "public"
+command = "npm run build https://subatest.aphecetche.eu/"
+
+[context.production.environment]
+HUGO_VERSION = "0.35"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[context.branch-deploy]
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.35"
