@@ -1,22 +1,27 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.min.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/manifest.json">
-    <meta name="theme-color" content="#ffffff">
-</head>
-<body>
-<header>
-    ceci pourrait être un entête un jour
-</header>
-<p>
-    pas grand chose ici pour l'instant
-</p>
-<p>mais ça va aller mieux, un jour peut-être...</p>
-<blockquote>enfin on espère en tout cas</blockquote>
-<footer>this is the end for moment</footer>
+
+{{ partial "head" . }}
+
+<body class="clearfix onecol regularnav">
+
+    {{ partial "logo" . }}
+
+    {{ partial "nav" . }}
+
+    {{ partial "banner" . }}
+
+    <div id="wrapper" class="clearfix">
+
+        <section role="main" id="content" class="column">
+
+            {{ .Content }}
+
+        </section>
+    </div>
+
+    {{ partial "footer" . }}
+
 </body>
+
 </html>

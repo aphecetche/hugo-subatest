@@ -1,0 +1,23 @@
+<nav id="nav-secondary" role="navigation" class="column">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.side }}
+    {{ if eq $currentPage.Dir (print .Name "/") }}
+    {{ if .HasChildren }}
+    <ul class="menu">
+        {{ range .Children }}
+        <li class="{{ if $currentPage.IsMenuCurrent " main " . }}active{{ end }}">
+            <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+    </ul>
+    {{ else }}
+    <li>
+        <a href="{{ .URL }}">
+            {{ .Pre }}
+            <span>{{ .Name }}</span>
+        </a>
+    </li>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+</nav>

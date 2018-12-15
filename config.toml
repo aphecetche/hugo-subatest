@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "http://www.example.com/"
 DefaultContentLanguage = "fr"
 title = "SubaTest"
 theme = "swt"

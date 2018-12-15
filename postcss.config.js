@@ -1,7 +1,13 @@
 module.exports = {
     plugins: [
-        require('precss'),
-        require("postcss-font-magician"),
-        require('autoprefixer')
+        require('postcss-easy-import')({
+            'path': ['themes/swt/static/css/'],
+            'prefix': '_',
+            'extension': 'css'
+        }),
+        require('postcss-simple-vars'),
+        require('postcss-css-variables'),
+        require('postcss-cssnext'),
+        require('postcss-font-magician')
     ]
 };

@@ -1,16 +1,16 @@
-@import "_typography.css";
-
-$background: white;
+@import "typography";
+@import "landing";
 
 body {
-  background: $background;
+  background: white;
+  max-width:360px;
 }
 
-
-
 blockquote {
-  background-color: yellow;
+  background-color: var(--warning-color);
   display: block;
   border: 1px solid black;
-  width: fit-content;
+  font-family: "Lobster";
+  letter-spacing: 0.5em;
+  font-weight: 900;
 }

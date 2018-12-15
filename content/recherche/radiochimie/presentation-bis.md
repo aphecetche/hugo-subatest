@@ -1,0 +1,15 @@
++++
+title = "Présentation (bis)"
+date = "2013-03-27 17:14:15 +0000 UTC"
+lastmod = "2013-03-27 17:43:09 +0000 UTC"
+path = "recherche/radiochimie/presentation-bis.md"
+joomlaid = 315
+category = "radiochimie"
+layout="recherche"
++++
+<a rel="lightbox" href=""><img width="70%!"(MISSING) alt="radiochimie groupe 2" src="images/Recherche/Radiochimie/radiochimie_groupe_2.jpg"/></a> 
+<p>Les activités de recherche du groupe de radiochimie sont dédiées aux questions fondamentales et appliquées en lien avec le comportement des substances radioactives dans l’environnement, dans le cycle électronucléaire et pour les applications médicales.</p>
+<p> <strong>L</strong>e groupe a pu acquérir une expertise scientifique internationalement reconnue, tant sur le plan expérimental que théorique, dans le domaine de la radiochimie liée au stockage des déchets radioactifs. Ces études menées avec <a target="_blank" href="http://www.andra.fr/">ANDRA</a> couvrent aujourd’hui l’étude des mécanismes de dissolution/corrosion du colis (matrice de confinement des déchets, conteneur), l’étude du transfert des radiosiotopes dans les barrières ouvragées (ciment, bentonite) et géologiques (milieux argileux et sableux) et enfin l’étude du comportement des radioisotopes dans la biosphère.</p>
+<p> <strong>L</strong>’arrivée du cyclotron <a target="_blank" href="http://www.cyclotron-nantes.fr/">ARRONAX</a> en 2010 a conduit au développement de nouvelles activités de recherches. Celles-ci sont soutenues par les investissements d’avenir (equipex <a target="_blank" href="http://www.cyclotron-nantes.fr/spip.php?article124">ARRONAX+</a>, <a target="_blank" href="http://www.irt-jules-verne.fr/">IRT Jules Verne</a>) et concernent l’utilisation des radioisotopes en médecine nucléaire et l’effet des rayonnements sur la matière.</p>
+<p> <strong>E</strong>nfin, le groupe de radiochimie développe, en concertation avec le service <a target="_blank" href="SMART/web/index.html">SMART</a>, des méthodes de mesure des quantités traces de radioactivité dans l’environnement dans le cadre de programmes liés à l’<a target="_blank" href="http://www.osuna.univ-nantes.fr/">OSUNA</a> et la Chaire CNRS/Université <a target="_blank" href="http://www.osuna.univ-nantes.fr/51626556/0/fiche___pagelibre/&amp;RH=1293798259421">SBADE</a>.</p>
+<p> <strong>L</strong>es activités du groupe de radiochimie sont ainsi regroupées en quatre projets thématiques, <a href="recherche/radiochimie/materiaux.md">MATERIAUX</a>, <a href="recherche/radiochimie/transfert.md">TRANSFERT</a>, <a href="recherche/radiochimie/radioisotopes.md">RADIOISOTOPES</a> et <a href="recherche/radiochimie/radiolyse.md">RADIOLYSE</a>. Un nouveau projet thématique transversal <a href="recherche/radiochimie/modelisation.md">MODELISATION</a> a vu le jour en 2010 dans le cadre de la chaire industrielle <a target="_blank" href="http://www.mines-nantes.fr/fr/CORPORATE-RELATIONS/Nos-chaires/Storage-and-Management-of-Nuclear-Waste">"Stockage et entreposage des déchets radioactifs"</a>.</p>
