@@ -1,434 +1,448 @@
  [[ menu.main ]]
-  identifier= "2011-11-08-17-31-09"
-  name = "SMART"
+  identifier= "recherche/nucleaire-et-environnement/radiochimie/liens"
+  name = "Liens"
+  url = "/recherche/radiochimie/liens"
+  parent = "recherche/nucleaire-et-environnement/radiochimie"
  [[ menu.main ]]
-  identifier= "enseignement/masters"
-  name = "Masters"
-  parent="enseignement"
- [[ menu.main ]]
-  identifier= "enseignement/propostion-stages-a-theses"
-  name = "Proposition stages & thèses "
-  parent="enseignement"
- [[ menu.main ]]
-  identifier= "laboratoire"
-  name = "Le laboratoire"
-  url = "laboratoire/nos-activites/presentation"
- [[ menu.main ]]
-  identifier= "laboratoire/nos-activites/presentation"
-  name = "Présentation"
-  parent="laboratoire/nos-activites"
- [[ menu.main ]]
-  identifier= "recherche"
-  name = "Recherche"
-  url = "recherche/presentation"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-environnement/radiochimie"
-  name = "Radiochimie"
-  url = "recherche/nucleaire-et-environnement/radiochimie/presentation"
-  parent="recherche/nucleaire-et-environnement"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/plasma"
-  name = "Plasma"
-  url = "recherche/univers-a-haute-energie/plasma/presentation"
-  parent="recherche/univers-a-haute-energie"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/astro"
-  name = "Astro"
-  url = "recherche/univers-a-haute-energie/astro/presentation"
-  parent="recherche/univers-a-haute-energie"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-environnement/prisma"
-  name = "Prisma"
-  url = "recherche/nucleaire-et-environnement/prisma/presentation"
-  parent="recherche/nucleaire-et-environnement"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-environnement/sen"
-  name = "SEN"
-  url = "recherche/nucleaire-et-environnement/sen/presentation"
-  parent="recherche/nucleaire-et-environnement"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/xenon"
-  name = "Xénon"
-  url = "recherche/nucleaire-et-sante/xenon/presentation"
-  parent="recherche/nucleaire-et-sante"
- [[ menu.main ]]
-  identifier= "services-techniques"
-  name = "Techniques"
-  url = "services-techniques/presentation"
- [[ menu.main ]]
-  identifier= "services-techniques/informatique"
-  name = "Informatique"
-  url = "services-techniques/informatique/presentation"
-  parent="services-techniques"
- [[ menu.main ]]
-  identifier= "services-techniques/electronique"
-  name = "Electronique "
-  url = "services-techniques/electronique/presentation"
-  parent="services-techniques"
- [[ menu.main ]]
-  identifier= "services-techniques/mecanique"
-  name = "Mécanique"
-  url = "services-techniques/mecanique/presentation"
-  parent="services-techniques"
- [[ menu.main ]]
-  identifier= "laboratoire/administration"
-  name = "Administration"
-  parent="laboratoire"
- [[ menu.main ]]
-  identifier= "communication"
-  name = "Communication"
-  url = "communication/presentation"
- [[ menu.main ]]
-  identifier= "enseignement/2012-01-09-12-53-40"
-  name = "Formation permanente"
-  parent="enseignement"
- [[ menu.main ]]
-  identifier= "communication/seminaires"
-  name = "Séminaires"
-  parent="communication"
- [[ menu.main ]]
-  identifier= "communication/vulgarisation"
-  name = "Vulgarisation"
-  parent="communication"
- [[ menu.main ]]
-  identifier= "communication/bibliotheque"
-  name = "Bibliothèque"
-  url = "communication/bibliotheque/accueil"
-  parent="communication"
- [[ menu.main ]]
-  identifier= "communication/bibliotheque/publications"
+  identifier= "recherche/univers-a-haute-energie/theorie-haute-energie/publications"
   name = "Publications"
-  parent="communication/bibliotheque"
- [[ menu.main ]]
-  identifier= "communication/bibliotheque/ressources-documentaires/ressource-emn"
-  name = "IMT Atlantique"
-  parent="communication/bibliotheque/ressources-documentaires"
- [[ menu.main ]]
-  identifier= "laboratoire/nos-activites/actualites"
-  name = "Actualités"
-  parent="laboratoire/nos-activites"
- [[ menu.main ]]
-  identifier= "recherche/production-scientifique"
-  name = "Production scientifique"
-  parent="recherche"
- [[ menu.main ]]
-  identifier= "laboratoire/venir-a-subatech"
-  name = "Venir à Subatech"
-  parent="laboratoire"
- [[ menu.main ]]
-  identifier= "communication/archives"
-  name = "Archives"
-  parent="communication"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/xenon/recherche/fondamentales"
-  name = "Fondamentales"
-  parent="recherche/nucleaire-et-sante/xenon/recherche"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/xenon/recherche/appliquees"
-  name = "Appliquées"
-  parent="recherche/nucleaire-et-sante/xenon/recherche"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-environnement"
-  name = "Nucléaire et environnement"
-  parent="recherche"
+  parent = "recherche/univers-a-haute-energie/theorie-haute-energie"
  [[ menu.main ]]
   identifier= "recherche/nucleaire-et-sante"
   name = "Nucléaire et santé"
-  parent="recherche"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie"
-  name = "Univers à haute énergie"
-  parent="recherche"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/prisma"
-  name = "Prisma"
-  url = "recherche/nucleaire-et-sante/prisma/presentation"
-  parent="recherche/nucleaire-et-sante"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/prisma/publications"
-  name = "Publications"
-  parent="recherche/nucleaire-et-sante/prisma"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/prisma/theses"
-  name = "Thèses "
-  parent="recherche/nucleaire-et-sante/prisma"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/prisma/contacts"
-  name = "Contacts"
-  parent="recherche/nucleaire-et-sante/prisma"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/prisma/communication"
-  name = "Présentations de conférences, séminaires et posters"
-  parent="recherche/nucleaire-et-sante/prisma"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/prisma/recherche"
-  name = "Activités de recherche"
-  parent="recherche/nucleaire-et-sante/prisma"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/prisma/membres"
-  name = "Membres"
-  parent="recherche/nucleaire-et-sante/prisma"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/prisma/presentation"
-  name = "Présentation"
-  parent="recherche/nucleaire-et-sante/prisma"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/prisma/equipements-methodes-techniques"
-  name = "Equipements, méthodes et techniques"
-  parent="recherche/nucleaire-et-sante/prisma"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/prisma/liens"
-  name = "Liens"
-  parent="recherche/nucleaire-et-sante/prisma"
+  parent = "recherche"
  [[ menu.main ]]
   identifier= "recherche/nucleaire-et-sante/radiochimie"
   name = "Radiochimie"
-  url = "recherche/nucleaire-et-sante/radiochimie/presentation"
-  parent="recherche/nucleaire-et-sante"
+  url = "/recherche/radiochimie/radiochimie-presentation"
+  parent = "recherche/nucleaire-et-sante"
+# is a menu alias
  [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/radiochimie/presentation"
-  name = "Présentation"
-  parent="recherche/nucleaire-et-sante/radiochimie"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/radiochimie/recherche"
-  name = "Activités de recherche"
-  parent="recherche/nucleaire-et-sante/radiochimie"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/radiochimie/membres"
-  name = "Membres"
-  parent="recherche/nucleaire-et-sante/radiochimie"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/radiochimie/publications"
+  identifier= "recherche/univers-a-haute-energie/theorie-basse-energie/publications"
   name = "Publications"
-  parent="recherche/nucleaire-et-sante/radiochimie"
+  parent = "recherche/univers-a-haute-energie/theorie-basse-energie"
  [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/radiochimie/communication"
-  name = "Présentations de conférences, séminaires  et posters"
-  parent="recherche/nucleaire-et-sante/radiochimie"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/radiochimie/theses"
+  identifier= "recherche/nucleaire-et-environnement/prisma/theses"
   name = "Thèses "
-  parent="recherche/nucleaire-et-sante/radiochimie"
+  url = "/recherche/prisma/theses"
+  parent = "recherche/nucleaire-et-environnement/prisma"
  [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/radiochimie/recherche/materiaux"
-  name = "Matériaux"
-  parent="recherche/nucleaire-et-sante/radiochimie/recherche"
+  identifier= "recherche/univers-a-haute-energie/theorie-basse-energie/theoriebe-contacts"
+  name = "Contacts"
+  parent = "recherche/univers-a-haute-energie/theorie-basse-energie"
  [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/radiochimie/recherche/modelisation"
-  name = "Modélisation"
-  parent="recherche/nucleaire-et-sante/radiochimie/recherche"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/radiochimie/recherche/transfert"
-  name = "Transfert"
-  parent="recherche/nucleaire-et-sante/radiochimie/recherche"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/radiochimie/recherche/radioisotopes"
-  name = "Radioisotopes & ultra-traces"
-  parent="recherche/nucleaire-et-sante/radiochimie/recherche"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/radiochimie/recherche/radiolyse"
-  name = "Physico-chimie sous irradiation"
-  parent="recherche/nucleaire-et-sante/radiochimie/recherche"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/sen"
-  name = "SEN"
-  url = "recherche/univers-a-haute-energie/sen/presentation"
-  parent="recherche/univers-a-haute-energie"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon"
+  identifier= "recherche/nucleaire-et-sante/xenon"
   name = "Xénon"
-  url = "recherche/univers-a-haute-energie/xenon/presentation"
-  parent="recherche/univers-a-haute-energie"
+  url = "/recherche/xenon/presentation"
+  parent = "recherche/nucleaire-et-sante"
+# is a menu alias
  [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/sen/presentation"
-  name = "Présentation"
-  parent="recherche/univers-a-haute-energie/sen"
+  identifier= "recherche/nucleaire-et-sante/xenon/recherche/fondamentales/xenon100"
+  name = "XENON100"
+  url = "/recherche/xenon/l-experience-xenon100"
+  parent = "recherche/nucleaire-et-sante/xenon/recherche/fondamentales"
  [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/sen/equipements-methodes-techniques"
-  name = "Equipements, méthodes et techniques"
-  parent="recherche/univers-a-haute-energie/sen"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/sen/membres"
-  name = "Membres"
-  parent="recherche/univers-a-haute-energie/sen"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/sen/theses"
-  name = "Thèses"
-  parent="recherche/univers-a-haute-energie/sen"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/sen/contacts"
-  name = "Contacts"
-  parent="recherche/univers-a-haute-energie/sen"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/sen/recherche"
-  name = "Activités de recherche"
-  parent="recherche/univers-a-haute-energie/sen"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/sen/publications"
-  name = "Publications"
-  parent="recherche/univers-a-haute-energie/sen"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/sen/presentations-de-conferences-seminaires-et-posters"
-  name = "Présentations de conférences, séminaires et posters"
-  parent="recherche/univers-a-haute-energie/sen"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/sen/liens"
+  identifier= "recherche/univers-a-haute-energie/theorie-basse-energie/liens"
   name = "Liens"
-  parent="recherche/univers-a-haute-energie/sen"
+  parent = "recherche/univers-a-haute-energie/theorie-basse-energie"
  [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon/recherche"
-  name = "Activités de recherche"
-  parent="recherche/univers-a-haute-energie/xenon"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon/equipements-methodes-techniques"
-  name = "Equipements, méthodes et techniques"
-  parent="recherche/univers-a-haute-energie/xenon"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon/contacts"
-  name = "Contacts"
-  parent="recherche/univers-a-haute-energie/xenon"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon/theses"
-  name = "Thèses "
-  parent="recherche/univers-a-haute-energie/xenon"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon/presentation"
-  name = "Présentation"
-  parent="recherche/univers-a-haute-energie/xenon"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon/membres"
-  name = "Membres"
-  parent="recherche/univers-a-haute-energie/xenon"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon/publications"
-  name = "Publications"
-  parent="recherche/univers-a-haute-energie/xenon"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon/liens"
-  name = "Liens"
-  parent="recherche/univers-a-haute-energie/xenon"
+  identifier= "recherche/nucleaire-et-sante/xenon/recherche/appliquees/gpm"
+  name = "GPM"
+  url = "/recherche/xenon/gpm"
+  parent = "recherche/nucleaire-et-sante/xenon/recherche/appliquees"
  [[ menu.main ]]
   identifier= "recherche/univers-a-haute-energie/xenon/presentations-de-conferences-seminaires-et-posters"
   name = "Présentations de conférences, séminaires et posters"
-  parent="recherche/univers-a-haute-energie/xenon"
+  url = "/recherche/xenon/communication"
+  parent = "recherche/univers-a-haute-energie/xenon"
  [[ menu.main ]]
   identifier= "recherche/univers-a-haute-energie/xenon/recherche/fondamentales"
   name = "Fondamentales"
-  parent="recherche/univers-a-haute-energie/xenon/recherche"
+  parent = "recherche/univers-a-haute-energie/xenon/recherche"
  [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon/recherche/appliquees"
-  name = "Appliquées"
-  parent="recherche/univers-a-haute-energie/xenon/recherche"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon/recherche/appliquees/xemis"
-  name = "XEMIS"
-  parent="recherche/univers-a-haute-energie/xenon/recherche/appliquees"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon/recherche/appliquees/gpm"
-  name = "GPM"
-  parent="recherche/univers-a-haute-energie/xenon/recherche/appliquees"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon/recherche/fondamentales/xenon100"
-  name = "XENON100"
-  parent="recherche/univers-a-haute-energie/xenon/recherche/fondamentales"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon/recherche/fondamentales/xenon1t"
-  name = "XENON1T"
-  parent="recherche/univers-a-haute-energie/xenon/recherche/fondamentales"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/xenon/recherche/fondamentales/darwin"
+  identifier= "recherche/nucleaire-et-sante/xenon/recherche/fondamentales/darwin"
   name = "DARWIN"
-  parent="recherche/univers-a-haute-energie/xenon/recherche/fondamentales"
+  url = "/recherche/xenon/darwin"
+  parent = "recherche/nucleaire-et-sante/xenon/recherche/fondamentales"
  [[ menu.main ]]
-  identifier= "laboratoire/nos-activites"
-  name = "Nos activités"
-  parent="laboratoire"
+  identifier= "recherche/nucleaire-et-sante/radiochimie/communication"
+  name = "Présentations de conférences, séminaires  et posters"
+  url = "/recherche/radiochimie/radiochimie-communication"
+  parent = "recherche/nucleaire-et-sante/radiochimie"
  [[ menu.main ]]
-  identifier= "enseignement/masters/mars"
-  name = "MARS"
-  url = "enseignement/masters/mars/presentation"
-  parent="enseignement/masters"
- [[ menu.main ]]
-  identifier= "enseignement/masters/2012-09-24-09-45-03"
-  name = "SNEAM"
-  parent="enseignement/masters"
- [[ menu.main ]]
-  identifier= "enseignement/options-emn"
-  name = "Options EMN"
-  parent="enseignement"
- [[ menu.main ]]
-  identifier= "enseignement/options-emn/2012-09-24-09-48-10"
-  name = "NTSE"
-  parent="enseignement/options-emn"
- [[ menu.main ]]
-  identifier= "enseignement/options-emn/2012-09-24-09-48-34"
-  name = "STAR"
-  parent="enseignement/options-emn"
- [[ menu.main ]]
-  identifier= "enseignement/2012-09-24-09-51-16"
-  name = "Présentation"
-  url = "enseignement"
-  parent="enseignement"
- [[ menu.main ]]
-  identifier= "recherche/nucleaire-et-sante/prisma/portfolio"
-  name = "Portfolio"
-  parent="recherche/nucleaire-et-sante/prisma"
- [[ menu.main ]]
-  identifier= "recherche/2012-09-26-10-16-34"
-  name = "Rapport d'activités (PDF)"
-  parent="recherche"
- [[ menu.main ]]
-  identifier= "recherche/images-recherche-subatech2009addendum-pdf"
-  name = "Addendum au rapport d'activités (PDF)"
-  parent="recherche"
- [[ menu.main ]]
-  identifier= "enseignement/masters/mars/2012-09-28-13-24-53"
-  name = "Emploi du temps (PDF)"
-  parent="enseignement/masters/mars"
- [[ menu.main ]]
-  identifier= "enseignement/masters/mars/stages"
-  name = "Stages"
-  parent="enseignement/masters/mars"
- [[ menu.main ]]
-  identifier= "services-techniques/electronique/actualites"
-  name = "Actualités"
-  parent="services-techniques/electronique"
- [[ menu.main ]]
-  identifier= "recherche/univers-a-haute-energie/theorie"
-  name = "Théorie"
-  url = "recherche/univers-a-haute-energie/theorie/presentation"
-  parent="recherche/univers-a-haute-energie"
+  identifier= "recherche/nucleaire-et-environnement/radiochimie/membres"
+  name = "Membres"
+  url = "/recherche/radiochimie/radiochimie-membres"
+  parent = "recherche/nucleaire-et-environnement/radiochimie"
  [[ menu.main ]]
   identifier= "recherche/univers-a-haute-energie/theorie/activites-de-recherche"
   name = "Activités de recherche"
-  parent="recherche/univers-a-haute-energie/theorie"
+  parent = "recherche/univers-a-haute-energie/theorie"
  [[ menu.main ]]
-  identifier= "mesures"
-  name = "SMART"
-  url = "mesures/le-service-smart/presentation"
- [[ menu.main ]]
-  identifier= "mesures/le-service-smart"
-  name = "Le service SMART"
-  parent="mesures"
- [[ menu.main ]]
-  identifier= "mesures/nos-prestations"
-  name = "Nos prestations"
-  parent="mesures"
- [[ menu.main ]]
-  identifier= "mesures/contact/liste-des-interlocuteurs"
-  name = "Liste des interlocuteurs"
-  parent="mesures/contact"
- [[ menu.main ]]
-  identifier= "mesures/liens/nos-partenaires"
-  name = "Nos partenaires"
-  parent="mesures/liens"
+  identifier= "recherche/nucleaire-et-sante/xenon/presentation"
+  name = "Présentation"
+  url = "/recherche/xenon/presentation"
+  parent = "recherche/nucleaire-et-sante/xenon"
  [[ menu.main ]]
   identifier= "recherche/univers-a-haute-energie/neutrino"
   name = "Neutrino"
-  url = "recherche/univers-a-haute-energie/neutrino/presentation"
-  parent="recherche/univers-a-haute-energie"
+  url = "/recherche/neutrino/neutrino-presentation"
+  parent = "recherche/univers-a-haute-energie"
+# is a menu alias
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-environnement"
+  name = "Nucléaire et environnement"
+  parent = "recherche"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/xenon/liens"
+  name = "Liens"
+  url = "/recherche/xenon/liens"
+  parent = "recherche/univers-a-haute-energie/xenon"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/radiochimie/theses"
+  name = "Thèses "
+  url = "/recherche/radiochimie/radiochimie-theses"
+  parent = "recherche/nucleaire-et-sante/radiochimie"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/xenon"
+  name = "Xénon"
+  url = "/recherche/xenon/presentation"
+  parent = "recherche/univers-a-haute-energie"
+# is a menu alias
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/prisma/publications"
+  name = "Publications"
+  url = "/recherche/prisma/publications"
+  parent = "recherche/nucleaire-et-sante/prisma"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-environnement/prisma/recherche"
+  name = "Activités de recherche"
+  url = "/recherche/prisma/recherche"
+  parent = "recherche/nucleaire-et-environnement/prisma"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/sen/recherche"
+  name = "Activités de recherche"
+  url = "/recherche/sen/sen-recherche"
+  parent = "recherche/univers-a-haute-energie/sen"
  [[ menu.main ]]
   identifier= "recherche/univers-a-haute-energie/2018-01-02-10-17-18"
   name = "Neutrino"
-  url = "recherche/univers-a-haute-energie/neutrino/presentation"
-  parent="recherche/univers-a-haute-energie"
+  url = "/recherche/neutrino/neutrino-presentation"
+  parent = "recherche/univers-a-haute-energie"
+# is a menu alias
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-basse-energie/recherche"
+  name = "Activités de recherche"
+  parent = "recherche/univers-a-haute-energie/theorie-basse-energie"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-environnement/radiochimie/recherche/radioisotopes"
+  name = "Radioisotopes & ultra-traces"
+  url = "/recherche/radiochimie/radioisotopes"
+  parent = "recherche/nucleaire-et-environnement/radiochimie/recherche"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-environnement/prisma/liens"
+  name = "Liens"
+  url = "/recherche/prisma/liens"
+  parent = "recherche/nucleaire-et-environnement/prisma"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/xenon/recherche/fondamentales/xenon1t"
+  name = "XENON1T"
+  url = "/recherche/xenon/l-experience-xenon1t"
+  parent = "recherche/nucleaire-et-sante/xenon/recherche/fondamentales"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/xenon/equipements-methodes-techniques"
+  name = "Equipements, méthodes et techniques"
+  url = "/recherche/xenon/equipements-methodes-techniques"
+  parent = "recherche/univers-a-haute-energie/xenon"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-environnement/radiochimie"
+  name = "Radiochimie"
+  url = "/recherche/radiochimie/radiochimie-presentation"
+  parent = "recherche/nucleaire-et-environnement"
+# is a menu alias
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/sen/equipements-methodes-techniques"
+  name = "Equipements, méthodes et techniques"
+  url = "/recherche/sen/erdre-equipements-methodes-techniques"
+  parent = "recherche/univers-a-haute-energie/sen"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-basse-energie/theoriebe-equipements-methodes-techniques"
+  name = "Méthodes et techniques"
+  parent = "recherche/univers-a-haute-energie/theorie-basse-energie"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/astro"
+  name = "Astro"
+  url = "/recherche/astro/astro-presentation"
+  parent = "recherche/univers-a-haute-energie"
+# is a menu alias
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-environnement/sen/publications"
+  name = "Publications"
+  url = "/recherche/sen/publications"
+  parent = "recherche/nucleaire-et-environnement/sen"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie"
+  name = "Théorie"
+  url = "/recherche/theorie/theoriehe-presentation"
+  parent = "recherche/univers-a-haute-energie"
+# is a menu alias
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/neutrino/actu-blog"
+  name = "Actu-Blog"
+  parent = "recherche/univers-a-haute-energie/neutrino"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-haute-energie/liens"
+  name = "Liens"
+  parent = "recherche/univers-a-haute-energie/theorie-haute-energie"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/prisma/equipements-methodes-techniques"
+  name = "Equipements, méthodes et techniques"
+  url = "/recherche/prisma/equipements-methodes-techniques"
+  parent = "recherche/nucleaire-et-sante/prisma"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/radiochimie/recherche/radiolyse"
+  name = "Physico-chimie sous irradiation"
+  url = "/recherche/radiochimie/radiolyse"
+  parent = "recherche/nucleaire-et-sante/radiochimie/recherche"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/sen"
+  name = "SEN"
+  url = "/recherche/sen/erdre-presentation"
+  parent = "recherche/univers-a-haute-energie"
+# is a menu alias
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-haute-energie/theoriehe-contacts"
+  name = "Contacts"
+  parent = "recherche/univers-a-haute-energie/theorie-haute-energie"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/xenon/membres"
+  name = "Membres"
+  url = "/recherche/xenon/membres"
+  parent = "recherche/univers-a-haute-energie/xenon"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-environnement/sen/membres"
+  name = "Membres"
+  url = "/recherche/sen/erdre-membres"
+  parent = "recherche/nucleaire-et-environnement/sen"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/radiochimie/equipements-methodes-techniques"
+  name = "Equipements, méthodes et techniques"
+  url = "/recherche/radiochimie/radiochimie-equipements-methodes-techniques"
+  parent = "recherche/nucleaire-et-sante/radiochimie"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/prisma/communication"
+  name = "Présentations de conférences, séminaires et posters"
+  url = "/recherche/prisma/communication"
+  parent = "recherche/nucleaire-et-sante/prisma"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-environnement/radiochimie/presentation"
+  name = "Présentation"
+  url = "/recherche/radiochimie/radiochimie-presentation"
+  parent = "recherche/nucleaire-et-environnement/radiochimie"
+ [[ menu.main ]]
+  identifier= "recherche/images-recherche-subatech2009addendum-pdf"
+  name = "Addendum au rapport d'activités (PDF)"
+  parent = "recherche"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/xenon/recherche/appliquees"
+  name = "Appliquées"
+  parent = "recherche/univers-a-haute-energie/xenon/recherche"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/sen/theses"
+  name = "Thèses"
+  url = "/recherche/sen/erdre-theses"
+  parent = "recherche/univers-a-haute-energie/sen"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie"
+  name = "Univers à haute énergie"
+  parent = "recherche"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/sen/liens"
+  name = "Liens"
+  url = "/recherche/sen/liens"
+  parent = "recherche/univers-a-haute-energie/sen"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/xenon/recherche"
+  name = "Activités de recherche"
+  url = "/recherche/xenon/recherche"
+  parent = "recherche/nucleaire-et-sante/xenon"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/prisma/membres"
+  name = "Membres"
+  url = "/recherche/prisma/membres"
+  parent = "recherche/nucleaire-et-sante/prisma"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-haute-energie/theoriehe-presentation"
+  name = "Présentation"
+  parent = "recherche/univers-a-haute-energie/theorie-haute-energie"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/sen/presentation"
+  name = "Présentation"
+  url = "/recherche/sen/erdre-presentation"
+  parent = "recherche/univers-a-haute-energie/sen"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/radiochimie/recherche"
+  name = "Activités de recherche"
+  url = "/recherche/radiochimie/recherche-radiochimie"
+  parent = "recherche/nucleaire-et-sante/radiochimie"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/prisma/presentation"
+  name = "Présentation"
+  url = "/recherche/prisma/presentation"
+  parent = "recherche/nucleaire-et-sante/prisma"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/radiochimie/publications"
+  name = "Publications"
+  url = "/recherche/radiochimie/radiochimie-publications"
+  parent = "recherche/nucleaire-et-sante/radiochimie"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/xenon/recherche/appliquees"
+  name = "Appliquées"
+  parent = "recherche/nucleaire-et-sante/xenon/recherche"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-environnement/sen/contacts"
+  name = "Contacts"
+  url = "/recherche/sen/erdre-contacts"
+  parent = "recherche/nucleaire-et-environnement/sen"
+ [[ menu.main ]]
+  identifier= "recherche/projets"
+  name = "Projets scientifiques"
+  parent = "recherche"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-basse-energie/theoriebe-theses"
+  name = "Thèses"
+  parent = "recherche/univers-a-haute-energie/theorie-basse-energie"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-basse-energie/theoriebe-presentation"
+  name = "Présentation"
+  parent = "recherche/univers-a-haute-energie/theorie-basse-energie"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-environnement/prisma"
+  name = "Prisma"
+  url = "/recherche/prisma/presentation"
+  parent = "recherche/nucleaire-et-environnement"
+# is a menu alias
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-basse-energie/membres"
+  name = "Membres"
+  parent = "recherche/univers-a-haute-energie/theorie-basse-energie"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-basse-energie/presentations-de-conferences-seminaires-et-posters"
+  name = "Présentations de conférences, séminaires et posters"
+  parent = "recherche/univers-a-haute-energie/theorie-basse-energie"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-haute-energie"
+  name = "Théorie HE"
+  parent = "recherche/univers-a-haute-energie"
+# is a menu alias
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/radiochimie/contacts"
+  name = "Contacts"
+  url = "/recherche/radiochimie/radiochimie-contacts"
+  parent = "recherche/nucleaire-et-sante/radiochimie"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/xenon/theses"
+  name = "Thèses "
+  url = "/recherche/xenon/theses"
+  parent = "recherche/nucleaire-et-sante/xenon"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/xenon/recherche/appliquees/xemis"
+  name = "XEMIS"
+  url = "/recherche/xenon/xemis"
+  parent = "recherche/univers-a-haute-energie/xenon/recherche/appliquees"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/sen/presentations-de-conferences-seminaires-et-posters"
+  name = "Présentations de conférences, séminaires et posters"
+  url = "/recherche/sen/communication"
+  parent = "recherche/univers-a-haute-energie/sen"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-environnement/radiochimie/recherche/materiaux"
+  name = "Matériaux"
+  url = "/recherche/radiochimie/materiaux"
+  parent = "recherche/nucleaire-et-environnement/radiochimie/recherche"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/radiochimie/recherche/modelisation"
+  name = "Modélisation"
+  url = "/recherche/radiochimie/modelisation"
+  parent = "recherche/nucleaire-et-sante/radiochimie/recherche"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-environnement/sen"
+  name = "SEN"
+  url = "/recherche/sen/erdre-presentation"
+  parent = "recherche/nucleaire-et-environnement"
+# is a menu alias
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/xenon/contacts"
+  name = "Contacts"
+  url = "/recherche/xenon/contacts"
+  parent = "recherche/nucleaire-et-sante/xenon"
+ [[ menu.main ]]
+  identifier= "recherche/production-scientifique"
+  name = "Production scientifique"
+  parent = "recherche"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-basse-energie"
+  name = "Théorie BE"
+  parent = "recherche/univers-a-haute-energie"
+# is a menu alias
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/plasma"
+  name = "Plasma"
+  url = "/recherche/plasma/presentation-groupe-plasma"
+  parent = "recherche/univers-a-haute-energie"
+# is a menu alias
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/xenon/publications"
+  name = "Publications"
+  url = "/recherche/xenon/publications"
+  parent = "recherche/univers-a-haute-energie/xenon"
+ [[ menu.main ]]
+  identifier= "recherche/2012-09-26-10-16-34"
+  name = "Rapport d'activités (PDF)"
+  parent = "recherche"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-environnement/prisma/portfolio"
+  name = "Portfolio"
+  url = "/recherche/prisma/portfolio"
+  parent = "recherche/nucleaire-et-environnement/prisma"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-haute-energie/theoriehe-theses"
+  name = "Thèses "
+  parent = "recherche/univers-a-haute-energie/theorie-haute-energie"
+ [[ menu.main ]]
+  identifier= "recherche"
+  name = "Recherche"
+  url = "/Recherche/recherche"
+# is a menu alias
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-environnement/prisma/contacts"
+  name = "Contacts"
+  url = "/recherche/prisma/contacts"
+  parent = "recherche/nucleaire-et-environnement/prisma"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/xenon/recherche/fondamentales"
+  name = "Fondamentales"
+  parent = "recherche/nucleaire-et-sante/xenon/recherche"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-haute-energie/theoriehe-equipements-methodes-techniques"
+  name = "(Equipements,) méthodes et techniques"
+  parent = "recherche/univers-a-haute-energie/theorie-haute-energie"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-haute-energie/recherche"
+  name = "Activités de recherche"
+  parent = "recherche/univers-a-haute-energie/theorie-haute-energie"
+ [[ menu.main ]]
+  identifier= "recherche/univers-a-haute-energie/theorie-haute-energie/membres"
+  name = "Membres"
+  parent = "recherche/univers-a-haute-energie/theorie-haute-energie"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/radiochimie/recherche/transfert"
+  name = "Transfert"
+  url = "/recherche/radiochimie/transfert"
+  parent = "recherche/nucleaire-et-sante/radiochimie/recherche"
+ [[ menu.main ]]
+  identifier= "recherche/nucleaire-et-sante/prisma"
+  name = "Prisma"
+  url = "/recherche/prisma/presentation"
+  parent = "recherche/nucleaire-et-sante"
+# is a menu alias

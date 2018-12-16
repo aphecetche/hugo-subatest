@@ -1,6 +1,7 @@
 <nav id="nav-secondary" role="navigation" class="column">
     {{ $currentPage := . }}
     {{ range .Site.Menus.side }}
+    <p>{{ $currentPage.Dir }} => {{ .Name }}</p>
     {{ if eq $currentPage.Dir (print .Name "/") }}
     {{ if .HasChildren }}
     <ul class="menu">
